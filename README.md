@@ -1,7 +1,7 @@
 # Hellow World, I'm Chi-Mao Fan 👋
 
 ## 👨🏻‍💻  About Me 
-- 🎓 I am a master's student
+- 🎓 I am a master's student from Taiwan
 - 🌱 I’m currently studying the image restoration by deep learning
 - 📫 How to reach me: qaz5517359@gmail.com
 
