@@ -1,4 +1,4 @@
-# 👋 Hellow World, I'm Chi-Mao Fan 
+# 👋 Hello World, I'm Chi-Mao Fan 
 
 ## 👨🏻‍💻  About Me 
 - 🎓 I am a master's student from Taiwan
