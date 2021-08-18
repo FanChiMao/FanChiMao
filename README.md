@@ -2,7 +2,7 @@
 
 ## 👨🏻‍💻  About Me 
 - 🎓 I am a master's student from Taiwan
-- 🌱 I’m currently studying the image restoration by deep learning
+- 🌱 I’m currently studying the Compute Science
 - 📫 How to reach me: qaz5517359@gmail.com
 
 
