@@ -26,9 +26,9 @@
 ## 📬  Contact Information  
 - ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)  
 - ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)  
-- ![Instagram](https://img.shields.io/badge/<>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)  
+- ![Instagram](https://img.shields.io/badge/<IG>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)  
 - ![Line](https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white)  
-- ![YouTube](https://img.shields.io/badge/<>-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)  
+- ![YouTube](https://img.shields.io/badge/<YouTube>-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)  
 
 
 
