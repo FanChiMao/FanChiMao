@@ -19,6 +19,6 @@
 
 ## 📊 Stats and Stuff  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FanChiMao)](https://github.com/FanChiMao/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FanChiMao&hide=Jupyter Notenbook&layout=compact)](https://github.com/FanChiMao/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FanChiMao&hide=JupyterNotenbook&layout=compact)](https://github.com/FanChiMao/github-readme-stats)  
 
 
