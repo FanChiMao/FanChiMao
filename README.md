@@ -7,7 +7,7 @@
 
 
 ## 💻  Languages and Tools I Use
-- MATLAB
+- <img src=https://i.ibb.co/SX7LqfL/matlab.png alt="arch" width="500" style="zoom:100%;" /> MATLAB
 - Pytorch
 - Python
 - LaTeX
