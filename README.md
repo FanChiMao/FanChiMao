@@ -5,7 +5,7 @@
 - 🎓 I am a master's student from Taiwan
 - 🌱 I’m currently studying the Compute Science  
 
-![<iframe src="https://giphy.com/embed/jfW2t8GVKovNriahyw" width="480" height="414" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/transparent-jfW2t8GVKovNriahyw">via GIPHY</a></p>]()
+![](https://media3.giphy.com/media/jfW2t8GVKovNriahyw/giphy.gif?cid=790b7611f10fcc55799559d7e4a870e542cdcc0b228e0f93&rid=giphy.gif&ct=s)
 
 ## 💻  Languages and Tools I Use
 - Languages  
