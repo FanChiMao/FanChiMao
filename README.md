@@ -1,4 +1,5 @@
 # 👋 Hello World, I'm Chi-Mao Fan 
+![](https://komarev.com/ghpvc/?username=FanChiMao&color=blue&style=flat)  
 
 ## 👨🏻‍💻  About Me 
 - 🎓 I am a master's student from Taiwan
