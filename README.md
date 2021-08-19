@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=FanChiMao&color=blue&style=flat)  
 
 ## 👨🏻‍💻  About Me 
-- 🎓 I am a master's student from Taiwan  <img src="https://media3.giphy.com/media/jfW2t8GVKovNriahyw/giphy.gif?cid=790b7611f10fcc55799559d7e4a870e542cdcc0b228e0f93&rid=giphy.gif&ct=s" style='float:right; />  
+- 🎓 I am a master's student from Taiwan  <img src="https://media3.giphy.com/media/jfW2t8GVKovNriahyw/giphy.gif?cid=790b7611f10fcc55799559d7e4a870e542cdcc0b228e0f93&rid=giphy.gif&ct=s" style='float:right;' />  
 - 🌱 I’m currently studying the Compute Science  
 
 
