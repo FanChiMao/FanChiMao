@@ -7,18 +7,23 @@
 
 
 ## 💻  Languages and Tools I Use
-- <img src=https://i.ibb.co/556kHKc/matlab.png alt="arch" width="16" style="zoom:100%;" /> MATLAB
-- Pytorch
-- Python
-- LaTeX
-- GitHub
-- Markdown
-- Google Colab
-- Android studio
-- Visual Studio
+- Languages  
+  - ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)C  
+  - Python  
+  - Markdown  
+  - Java  
+  - CSS  
+- Tools
+  - Pytorch
+  - Python
+  - LaTeX
+  - GitHub
+  - Markdown
+  - Google Colab
+  - Android studio
+  - Visual Studio
 
 ## 📊 Stats and Stuff  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FanChiMao)](https://github.com/FanChiMao/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FanChiMao&hide=JupyterNotebook&layout=compact)](https://github.com/FanChiMao/github-readme-stats)  
 
 
