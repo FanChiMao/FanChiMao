@@ -16,3 +16,6 @@
 - Google Colab
 - Android studio
 - Visual Studio
+
+## 📊 Stats and Stuff  
+github-readme-stats
