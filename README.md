@@ -3,7 +3,9 @@
 
 ## 👨🏻‍💻  About Me 
 - 🎓 I am a master's student from Taiwan
-- 🌱 I’m currently studying the Compute Science
+- 🌱 I’m currently studying the Compute Science  
+
+![<iframe src="https://giphy.com/embed/jfW2t8GVKovNriahyw" width="480" height="414" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/transparent-jfW2t8GVKovNriahyw">via GIPHY</a></p>]()
 
 ## 💻  Languages and Tools I Use
 - Languages  
