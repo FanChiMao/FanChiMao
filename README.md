@@ -18,5 +18,7 @@
 - Visual Studio
 
 ## 📊 Stats and Stuff  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FanChiMao&show_icons=true&theme=radica)](https://github.com/FanChiMao/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FanChiMao)](https://github.com/FanChiMao/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FanChiMao)](https://github.com/FanChiMao/github-readme-stats)  
+
 
