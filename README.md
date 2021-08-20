@@ -29,9 +29,6 @@
   - qaz5517359@gmail.com (Most commonly used)  
   - 52hzswhale@smail.nchu.edu.tw  
   - zhimaofan@gmail.com  
-<div align="right">  
-<img src="https://media3.giphy.com/media/jfW2t8GVKovNriahyw/giphy.gif?cid=790b7611f10fcc55799559d7e4a870e542cdcc0b228e0f93&rid=giphy.gif&ct=s" />  
-</div>  
 
 - ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)  
   - [Go to my facebook](https://www.facebook.com/profile.php?id=100004299272985)  
@@ -40,6 +37,10 @@
 - ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)  
   - [Go to my Yotube](https://www.youtube.com/channel/UCIV7WMa5O_TZKZZSzXcLmmw)  
 
+
+<div align="center">  
+<img src="https://media3.giphy.com/media/jfW2t8GVKovNriahyw/giphy.gif?cid=790b7611f10fcc55799559d7e4a870e542cdcc0b228e0f93&rid=giphy.gif&ct=s" />  
+</div>  
 
 
 
