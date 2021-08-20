@@ -31,7 +31,7 @@
 ## 📬  Contact Information  
 - ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)  
 
-  - qaz5517359@gmail.com (Most commonly used)  
+  - qaz5517359@gmail.com  
   - 52hzswhale@smail.nchu.edu.tw  
   - zhimaofan@gmail.com  
 
