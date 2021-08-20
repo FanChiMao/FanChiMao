@@ -16,7 +16,7 @@
 
 ## 📊 Stats and Stuff  
 <img height="200em" src="https://github-readme-stats.vercel.app/api?username=FanChiMao&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /><img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FanChiMao&hide=jupyter%20notebook&hide_border=true&layout=compact" />  
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Fanchimao&hide_border=true" />  
+<img height="200em src="https://github-readme-stats.vercel.app/api/wakatime?username=Fanchimao&hide_border=true" />  
 
 
 
