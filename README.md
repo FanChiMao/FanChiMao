@@ -24,7 +24,8 @@
 
 
 ## 📬  Contact Information  
-- ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)<div align="right">
+- ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)  
+<div align="right">  
 <img src="https://media3.giphy.com/media/jfW2t8GVKovNriahyw/giphy.gif?cid=790b7611f10fcc55799559d7e4a870e542cdcc0b228e0f93&rid=giphy.gif&ct=s" style='float:right; width:300px;height:100 px' />  
 </div>  
   - qaz5517359@gmail.com (Most commonly used)  
