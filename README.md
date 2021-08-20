@@ -16,7 +16,11 @@
 
 ## 📊 Stats and Stuff  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FanChiMao)](https://github.com/FanChiMao/github-readme-stats)  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FanChiMao&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FanChiMao&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FanChiMao&hide=jupyter%20notebook)](https://github.com/FanChiMao/github-readme-stats)
+
+
+
 
 ## 📬  Contact Information  
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white) ![Instagram](https://img.shields.io/badge/IG-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) ![Line](https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white) ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)  
