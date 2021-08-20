@@ -4,8 +4,7 @@
 ## 👨🏻‍💻  About Me 
 - 🎓 I am a master's student from Taiwan  
 - 🌱 I’m currently studying the Compute Science  
-
-<img src="https://media3.giphy.com/media/jfW2t8GVKovNriahyw/giphy.gif?cid=790b7611f10fcc55799559d7e4a870e542cdcc0b228e0f93&rid=giphy.gif&ct=s" style="float:right; margin: 5px;" />  
+ 
 
 ## 💻  Languages and Tools I Use
 - Languages  
@@ -26,7 +25,7 @@
 - ![Line](https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white)  
 - ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)  
 
-
+<img src="https://media3.giphy.com/media/jfW2t8GVKovNriahyw/giphy.gif?cid=790b7611f10fcc55799559d7e4a870e542cdcc0b228e0f93&rid=giphy.gif&ct=s" style="float:right; margin: 5px;" /> 
 
 
 
