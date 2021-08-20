@@ -4,7 +4,7 @@
 ## 👨🏻‍💻  About Me 
 - 🎓 I am a master's student from Taiwan  
 - 🌱 I’m currently studying the Compute Science  
- 
+- 📋 My notion summarize  
 
 ## 💻  Languages and Tools I Use
 - Languages  
