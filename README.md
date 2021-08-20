@@ -17,7 +17,7 @@
 ## 📊 Stats and Stuff  
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FanChiMao&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FanChiMao&hide=jupyter%20notebook&hide_border=true&layout=compact" />  
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FanChiMao)](https://github.com/FanChiMao/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Fanchimao)](https://github.com/Fanchimao/github-readme-stats)
 
 
 
