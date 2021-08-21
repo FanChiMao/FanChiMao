@@ -18,14 +18,16 @@
   ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white) ![Visual Studio](https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
 
 
-## 📊 Stats and Stuff  
+## 📊 Github Stats and Stuff  
 <img src="https://github-readme-stats.vercel.app/api?username=FanChiMao&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FanChiMao&hide=jupyter%20notebook&hide_border=true&layout=compact" />  
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Fanchimao&hide_border=true" />  
 
+
+
+## 💻 Coding Stats and Stuff  
 <a href="https://wakatime.com"><img height="400em" src="https://wakatime.com/share/@Fanchimao/19fa641f-cb45-45bc-88d4-6184dc47c083.png" /></a>  
-
-
+<a href="https://wakatime.com"><img height="400em" src="https://wakatime.com/share/@Fanchimao/2fb93a7f-b153-4f11-b017-3cd869d1e5c1.png" /></a>  
 
 ## 📬  Contact Information  
 - ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)  
