@@ -1,10 +1,6 @@
 # 👋 Hello World, I'm Chi-Mao Fan 
 ![](https://komarev.com/ghpvc/?username=FanChiMao&color=blue&style=flat)  
 
-<div align="center">  
-<img src="https://media3.giphy.com/media/0p9YX5Io6TTyqr6Amc/giphy.gif?cid=790b761109e27f8a3fe54e0e5d101460b07d0d37d3bd518e&rid=giphy.gif&ct=g" />  
-</div>  
-
 ## 👨🏻‍💻  About Me 
 - 🎓 I am a master's student from Taiwan  
 - 🌱 I’m currently studying the Compute Science  
@@ -23,6 +19,9 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FanChiMao&hide=jupyter%20notebook&hide_border=true&layout=compact" />  
 
 ## ⌨ Coding Stats and Stuff  
+<div align="center">  
+<img src="https://media3.giphy.com/media/0p9YX5Io6TTyqr6Amc/giphy.gif?cid=790b761109e27f8a3fe54e0e5d101460b07d0d37d3bd518e&rid=giphy.gif&ct=g" />  
+</div>  
 <img src="https://github.com/FanChiMao/FanChiMao/blob/main/images/stat.svg" alt="Avinal WakaTime Activity"/>  
 
 
