@@ -23,7 +23,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FanChiMao&hide=jupyter%20notebook&hide_border=true&layout=compact" />  
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Fanchimao&hide_border=true" />  
 
-
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Fanchimao/5a7a08ce-a244-487e-82b7-bb73c5d37be1.png" /></a>
 
 
 
