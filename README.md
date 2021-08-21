@@ -19,7 +19,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FanChiMao&hide=jupyter%20notebook&hide_border=true&layout=compact" />  
 
 ## ⌨ Coding Stats and Stuff  
-<div align="center">  
+<div>  
 <img src="https://media3.giphy.com/media/0p9YX5Io6TTyqr6Amc/giphy.gif?cid=790b761109e27f8a3fe54e0e5d101460b07d0d37d3bd518e&rid=giphy.gif&ct=g" />  
 </div>  
 <img src="https://github.com/FanChiMao/FanChiMao/blob/main/images/stat.svg" alt="Avinal WakaTime Activity"/>  
@@ -40,7 +40,7 @@
   - [Go to my YouTube](https://www.youtube.com/channel/UCIV7WMa5O_TZKZZSzXcLmmw)  
 
 
-<div align="center">  
+<div>  
 <img src="https://media3.giphy.com/media/jfW2t8GVKovNriahyw/giphy.gif?cid=790b7611f10fcc55799559d7e4a870e542cdcc0b228e0f93&rid=giphy.gif&ct=s" />  
 </div>  
 
