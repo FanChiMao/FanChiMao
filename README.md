@@ -37,7 +37,7 @@
 
 - ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)  
   - [Go to my Facebook](https://www.facebook.com/profile.php?id=100004299272985)  
-- ![Instagram](https://img.shields.io/badge/IG-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)  
+- ![Instagram](https://img.shields.io/badge/52hz_fan-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)  
   - [Go to my Instagrame](https://www.instagram.com/52hz_fan/?fbclid=IwAR0hbi_yCwJBZvyTPoKPlZFbdnR3cXKAQl85TBweacVHKnLD-PZ11Di4vis)  
 - ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)  
   - [Go to my YouTube](https://www.youtube.com/channel/UCIV7WMa5O_TZKZZSzXcLmmw)  
