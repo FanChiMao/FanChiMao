@@ -21,12 +21,9 @@
 ## 📊 Github Stats and Stuff  
 <img src="https://github-readme-stats.vercel.app/api?username=FanChiMao&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FanChiMao&hide=jupyter%20notebook&hide_border=true&layout=compact" />  
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Fanchimao&hide_border=true" />  
-
-
 
 ## 💻 Coding Stats and Stuff  
-<a href="https://wakatime.com"><img height="350em" src="https://wakatime.com/share/@Fanchimao/19fa641f-cb45-45bc-88d4-6184dc47c083.png" /></a> <a href="https://wakatime.com"><img height="350em" src="https://wakatime.com/share/@Fanchimao/2fb93a7f-b153-4f11-b017-3cd869d1e5c1.png" /></a>  
+<a href="https://wakatime.com"><img height="350em" src="https://wakatime.com/share/@Fanchimao/19fa641f-cb45-45bc-88d4-6184dc47c083.png" /></a>  <a href="https://wakatime.com"><img height="350em" src="https://wakatime.com/share/@Fanchimao/2fb93a7f-b153-4f11-b017-3cd869d1e5c1.png" /></a>  
 
 ## 📬  Contact Information  
 - ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)  
