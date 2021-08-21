@@ -23,7 +23,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FanChiMao&hide=jupyter%20notebook&hide_border=true&layout=compact" />  
 
 ## ⌨ Coding Stats and Stuff  
-<img src="https://github.com/FanChiMao/FanChiMao/blob/main/images/stat.svg" alt="Alternative Text"/>  
+<img src="https://github.com/FanChiMao/FanChiMao/blob/main/images/stat.svg" alt="Avinal WakaTime Activity"/>  
 
 
 ## 📬  Contact Information  
