@@ -27,6 +27,7 @@
 
 ## 📬  Contact Information  
 <img style="float: right;" src="https://media3.giphy.com/media/jfW2t8GVKovNriahyw/giphy.gif?cid=790b7611f10fcc55799559d7e4a870e542cdcc0b228e0f93&rid=giphy.gif&ct=s">  
+
 - ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)  
 
   - qaz5517359@gmail.com  
