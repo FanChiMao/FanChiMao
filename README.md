@@ -20,7 +20,7 @@
 
 ## ⌨ Coding Stats and Stuff  
 <div>  
-<img src="https://media3.giphy.com/media/0p9YX5Io6TTyqr6Amc/giphy.gif?cid=790b761109e27f8a3fe54e0e5d101460b07d0d37d3bd518e&rid=giphy.gif&ct=g" />  
+<img height="200em" src="https://media3.giphy.com/media/0p9YX5Io6TTyqr6Amc/giphy.gif?cid=790b761109e27f8a3fe54e0e5d101460b07d0d37d3bd518e&rid=giphy.gif&ct=g" />  
 </div>  
 <img src="https://github.com/FanChiMao/FanChiMao/blob/main/images/stat.svg" alt="Avinal WakaTime Activity"/>  
 
