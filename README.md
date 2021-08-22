@@ -29,7 +29,7 @@
 
 ## 📬  Contact Information  
 
-- <div style="float:right; margin:2px;"><img height="200em" src="https://media3.giphy.com/media/jfW2t8GVKovNriahyw/giphy.gif?cid=790b7611f10fcc55799559d7e4a870e542cdcc0b228e0f93&rid=giphy.gif&ct=s"></div>![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)  
+- <span style="float:right;"><img height="200em" src="https://media3.giphy.com/media/jfW2t8GVKovNriahyw/giphy.gif?cid=790b7611f10fcc55799559d7e4a870e542cdcc0b228e0f93&rid=giphy.gif&ct=s"></div> ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)  
 
   - qaz5517359@gmail.com  
   - 52hzswhale@smail.nchu.edu.tw  
