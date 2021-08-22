@@ -42,8 +42,7 @@
   - [Go to my YouTube](https://www.youtube.com/channel/UCIV7WMa5O_TZKZZSzXcLmmw)  
 
 
-
-<p align = "center">  
+<p>  
 <img src="https://media3.giphy.com/media/jfW2t8GVKovNriahyw/giphy.gif?cid=790b7611f10fcc55799559d7e4a870e542cdcc0b228e0f93&rid=giphy.gif&ct=s" />  
 </p>  
 
