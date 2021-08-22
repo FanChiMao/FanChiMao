@@ -28,11 +28,9 @@
 ![img](https://github.com/FanChiMao/FanChiMao/blob/output/github-snake.gif?raw=true)  
 
 ## 📬  Contact Information  
-#leftfloat {
-float:left;
-}
+
 <span id= style="float:right; margin:2px;"><img height="200em" src="https://media3.giphy.com/media/jfW2t8GVKovNriahyw/giphy.gif?cid=790b7611f10fcc55799559d7e4a870e542cdcc0b228e0f93&rid=giphy.gif&ct=s">
-</div>  
+</span>  
 <div style="float:none;clear:both;">
 
 
