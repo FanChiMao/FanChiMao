@@ -29,7 +29,10 @@
 
 ## 📬  Contact Information  
 
-<div style="float:right; margin:2px;"><img height="200em" src="https://media3.giphy.com/media/jfW2t8GVKovNriahyw/giphy.gif?cid=790b7611f10fcc55799559d7e4a870e542cdcc0b228e0f93&rid=giphy.gif&ct=s"></div>  
+<div style="float:right; margin:2px;"><img height="200em" src="https://media3.giphy.com/media/jfW2t8GVKovNriahyw/giphy.gif?cid=790b7611f10fcc55799559d7e4a870e542cdcc0b228e0f93&rid=giphy.gif&ct=s">
+</div>  
+<div style="float:none;clear:both;">
+
 
 - ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)  
 
@@ -43,7 +46,7 @@
   - [Go to my Instagrame](https://www.instagram.com/IG/?fbclid=IwAR0hbi_yCwJBZvyTPoKPlZFbdnR3cXKAQl85TBweacVHKnLD-PZ11Di4vis)  
 - ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)  
   - [Go to my YouTube](https://www.youtube.com/channel/UCIV7WMa5O_TZKZZSzXcLmmw)  
-
+</div>
 
 <p>  
 <img height="200em" src="https://media3.giphy.com/media/jfW2t8GVKovNriahyw/giphy.gif?cid=790b7611f10fcc55799559d7e4a870e542cdcc0b228e0f93&rid=giphy.gif&ct=s" />  
