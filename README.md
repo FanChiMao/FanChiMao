@@ -24,6 +24,8 @@
 </div>  
 <img src="https://github.com/FanChiMao/FanChiMao/blob/main/images/stat.svg" alt="Avinal WakaTime Activity"/>  
 
+## Contribution activity  
+![img](https://github.com/FanChiMao/FanChiMao/blob/output/github-snake.gif?raw=true)  
 
 ## 📬  Contact Information  
 
@@ -45,7 +47,3 @@
 <p>  
 <img height="200em" src="https://media3.giphy.com/media/jfW2t8GVKovNriahyw/giphy.gif?cid=790b7611f10fcc55799559d7e4a870e542cdcc0b228e0f93&rid=giphy.gif&ct=s" />  
 </p>  
-
-## Snake  
-
-![img](https://github.com/FanChiMao/FanChiMao/blob/output/github-snake.gif?raw=true)  
