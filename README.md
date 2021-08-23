@@ -90,8 +90,7 @@ Jupyter Notebook         1 repo              █████░░░░░░�
 
 ## 📬  Contact Information  
 
-- ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)  
-  - qaz5517359@gmail.com  
+- ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white "qaz5517359@gmail.com")  
 - [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100004299272985)   
 - [![Instagram](https://img.shields.io/badge/52hz_fan-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/IG/?fbclid=IwAR0hbi_yCwJBZvyTPoKPlZFbdnR3cXKAQl85TBweacVHKnLD-PZ11Di4vis)  
 - [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCIV7WMa5O_TZKZZSzXcLmmw)  
