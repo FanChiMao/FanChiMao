@@ -2,7 +2,8 @@
 ![](https://komarev.com/ghpvc/?username=FanChiMao&color=blue&style=flat)  
 
 ## 👨🏻‍💻  About Me 
-- 🎓 I am a master's student from Taiwan  
+- 🎓 I am a master's student from National Chung Hsing University, Taiwan![image](https://user-images.githubusercontent.com/85726287/130448120-05a4dc47-fa9d-4bb3-9e52-d9a9e65e715b.png)
+
 - 🌱 I’m currently studying the Compute Version especially image restoration  
 - 📘 [My notion website](https://www.notion.so/LeetCode-fb26f4705745445f8c08293c9e3f3298) (Summarize the papers I read and LeetCode notes)    
 
