@@ -90,6 +90,7 @@ Jupyter Notebook         1 repo              █████░░░░░░�
 
 ## 📬  Contact Me  
 <img height="200em" src="https://media3.giphy.com/media/jfW2t8GVKovNriahyw/giphy.gif?cid=790b7611f10fcc55799559d7e4a870e542cdcc0b228e0f93&rid=giphy.gif&ct=s" style="float: right;" />  
+<div style="center">
 <a href="facebook.com/52hzfan"><img height="50px" src="https://i.ibb.co/HKQbgVQ/fb.jpg" alt="fb" border="0"></a> <a href="https://www.youtube.com/channel/UCIV7WMa5O_TZKZZSzXcLmmw"><img height="50px" src="https://i.ibb.co/wcHwd78/u2.jpg" alt="u2" border="0"></a> <a href="https://www.instagram.com/52hz_fan/"><img height="50px" src="https://i.ibb.co/KDMvvWd/ig.jpg" alt="ig" border="0"></a> <a href="https://twitter.com/Fan_R_Mao"><img height="50px" src="https://i.ibb.co/7vTYVnN/twiter.jpg" alt="twiter" border="0"></a> <a href="https://imgbb.com/"><img height="50px"  src="https://i.ibb.co/TL325v7/linkin.jpg" alt="linkin" border="0"></a>  
 
-
+</div>  
