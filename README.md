@@ -24,6 +24,16 @@
 </div>  
 <img src="https://github.com/FanChiMao/FanChiMao/blob/main/images/stat.svg" alt="Avinal WakaTime Activity"/>  
 
+<details>  
+<summary>more detail</summary>   
+<pre><code>  
+123  
+</code></pre>  
+</details>  
+
+
+
+
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
 
