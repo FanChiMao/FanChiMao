@@ -88,8 +88,10 @@ Jupyter Notebook         1 repo              █████░░░░░░�
 ## 🏆 Contribution activity  
 ![img](https://github.com/FanChiMao/FanChiMao/blob/output/github-snake.gif?raw=true)  
 
-## 📬  Contact Information  
-
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white "qaz5517359@gmail.com") [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white "范植貿")](https://www.facebook.com/profile.php?id=100004299272985) [![Instagram](https://img.shields.io/badge/IG-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white "52hz_fan")](https://www.instagram.com/IG/?fbclid=IwAR0hbi_yCwJBZvyTPoKPlZFbdnR3cXKAQl85TBweacVHKnLD-PZ11Di4vis) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white "范植貿")](https://www.youtube.com/channel/UCIV7WMa5O_TZKZZSzXcLmmw)  
-
+## 📬  Contact Me  
 <img height="200em" src="https://media3.giphy.com/media/jfW2t8GVKovNriahyw/giphy.gif?cid=790b7611f10fcc55799559d7e4a870e542cdcc0b228e0f93&rid=giphy.gif&ct=s" style="float: right;" />  
+
+<div style="center">  
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white "qaz5517359@gmail.com") [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white "范植貿")](https://www.facebook.com/profile.php?id=100004299272985) [![Instagram](https://img.shields.io/badge/IG-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white "52hz_fan")](https://www.instagram.com/IG/?fbclid=IwAR0hbi_yCwJBZvyTPoKPlZFbdnR3cXKAQl85TBweacVHKnLD-PZ11Di4vis) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white "范植貿")](https://www.youtube.com/channel/UCIV7WMa5O_TZKZZSzXcLmmw)  </div>  
+
+
