@@ -24,6 +24,11 @@
 </div>  
 <img src="https://github.com/FanChiMao/FanChiMao/blob/main/images/stat.svg" alt="Avinal WakaTime Activity"/>  
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
+
 ## 🏆 Contribution activity  
 ![img](https://github.com/FanChiMao/FanChiMao/blob/output/github-snake.gif?raw=true)  
 
