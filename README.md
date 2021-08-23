@@ -90,7 +90,7 @@ Jupyter Notebook         1 repo              █████░░░░░░�
 
 ## 📬  Contact Me  
 <img height="200em" src="https://media3.giphy.com/media/jfW2t8GVKovNriahyw/giphy.gif?cid=790b7611f10fcc55799559d7e4a870e542cdcc0b228e0f93&rid=giphy.gif&ct=s" style="float: right;" />  
-<img height="100px" src="https://i.ibb.co/KDMvvWd/ig.jpg" alt="ig" border="0"> 
+<img height="75px" src="https://i.ibb.co/KDMvvWd/ig.jpg" alt="ig" border="0"> 
 [![Facebook](https://i.ibb.co/HKQbgVQ/fb.jpg "范植貿"){:height="100px" width="100px"}](https://www.facebook.com/profile.php?id=100004299272985) [![Instagram](https://i.ibb.co/KDMvvWd/ig.jpg "52hz_fan"){:height="100px" width="100px"}](https://www.instagram.com/IG/?fbclid=IwAR0hbi_yCwJBZvyTPoKPlZFbdnR3cXKAQl85TBweacVHKnLD-PZ11Di4vis) [![YouTube](https://drive.google.com/file/d/1bNLjaFVNHl13cNObTUc1StWovkLF4Ow5/view?usp=sharing "范植貿")](https://www.youtube.com/channel/UCIV7WMa5O_TZKZZSzXcLmmw)  
 
 
