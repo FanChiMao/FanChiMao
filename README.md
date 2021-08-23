@@ -3,7 +3,7 @@
 
 ## 👨🏻‍💻  About Me 
 - 🎓 I am a master's student from Taiwan  
-- 🌱 I’m currently studying the Compute Science  
+- 🌱 I’m currently studying the Compute Version especially image restoration  
 - 📘 [My notion website](https://www.notion.so/LeetCode-fb26f4705745445f8c08293c9e3f3298) (Summarize the papers I read and LeetCode notes)    
 
 ## 💻  Languages and Tools I Use
