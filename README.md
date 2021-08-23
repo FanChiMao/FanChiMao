@@ -27,13 +27,6 @@
 <details>  
 <summary>more detail</summary>   
 <pre><code>  
-123  
-</code></pre>  
-</details>  
-
-
-
-
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
 
@@ -88,6 +81,8 @@ Jupyter Notebook         1 repo              █████░░░░░░�
  Last Updated on 23/08/2021
 <!--END_SECTION:waka-->
 
+</code></pre>  
+</details>  
 
 
 ## 🏆 Contribution activity  
