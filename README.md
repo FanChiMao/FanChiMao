@@ -15,12 +15,12 @@
 
 
 ## 📊 Github Stats and Stuff  
-<iframe src="https://giphy.com/embed/sIfpwpdOtjm45NrP4Q" width="480" height="400" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/transparent-sIfpwpdOtjm45NrP4Q">via GIPHY</a></p>
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=FanChiMao&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />  
-<img src="https://media2.giphy.com/media/sIfpwpdOtjm45NrP4Q/giphy.gif?cid=790b7611541ee7426e591227db64e463ed9d640954745a33&rid=giphy.gif&ct=s">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FanChiMao&hide=jupyter%20notebook&hide_border=true&layout=compact" />  
+<img height="200em" src="https://media2.giphy.com/media/sIfpwpdOtjm45NrP4Q/giphy.gif?cid=790b7611541ee7426e591227db64e463ed9d640954745a33&rid=giphy.gif&ct=s">
 </div>  
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FanChiMao&hide=jupyter%20notebook&hide_border=true&layout=compact" />  
 
 ## ⌨ Coding Stats and Stuff  
 <div align=center>  
