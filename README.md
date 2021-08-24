@@ -91,6 +91,5 @@ Jupyter Notebook         1 repo              █████░░░░░░�
 ## 📬  Contact Me  
 <img height="200em" src="https://media3.giphy.com/media/jfW2t8GVKovNriahyw/giphy.gif?cid=790b7611f10fcc55799559d7e4a870e542cdcc0b228e0f93&rid=giphy.gif&ct=s" />  
 
-<a style ="center" href="https://facebook.com/52hzfan"><img height="50px" src="https://i.ibb.co/bsLtDNj/fb.png" alt="fb"></a> 
-
+<a href="https://facebook.com/52hzfan"><img height="50px" src="https://i.ibb.co/bsLtDNj/fb.png" alt="fb" style="display:block; margin:auto;"></a> 
 
