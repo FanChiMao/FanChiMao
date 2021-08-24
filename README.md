@@ -91,10 +91,12 @@ Jupyter Notebook         1 repo              █████░░░░░░�
 ## 📬  Contact Me  
 <img height="200em" src="https://media3.giphy.com/media/jfW2t8GVKovNriahyw/giphy.gif?cid=790b7611f10fcc55799559d7e4a870e542cdcc0b228e0f93&rid=giphy.gif&ct=s" />  
 
-<a href="https://facebook.com/52hzfan"><img height="50px" src="https://i.ibb.co/bsLtDNj/fb.png" alt="fb" border="10px"></a> 
-<a href="https://imgbb.com/"><img height="50px" src="https://i.ibb.co/WBdbfgK/mess.png" alt="mess" border="10px"></a> 
-<a href="https://www.youtube.com/channel/UCIV7WMa5O_TZKZZSzXcLmmw"><img height="50px" src="https://i.ibb.co/wcHwd78/u2.jpg" alt="u2" border="0" style="center"></a> 
-<a href="https://www.instagram.com/52hz_fan/"><img height="50px" src="https://i.ibb.co/KDMvvWd/ig.jpg" alt="ig" border="0" style="center"></a> 
-<a href="https://twitter.com/Fan_R_Mao"><img height="50px" src="https://i.ibb.co/7vTYVnN/twiter.jpg" alt="twiter" border="0" style="center"></a> 
-<a href="https://imgbb.com/"><img height="50px"  src="https://i.ibb.co/TL325v7/linkin.jpg" alt="linkin" border="0" style="center"></a>  
+<a href="https://facebook.com/52hzfan"><img height="50px" src="https://i.ibb.co/bsLtDNj/fb.png" alt="fb"></a> 
+<a href="https://imgbb.com/"><img height="50px" src="https://i.ibb.co/WBdbfgK/mess.png" alt="message"></a> 
+<a href="https://www.youtube.com/channel/UCIV7WMa5O_TZKZZSzXcLmmw"><img height="50px" src="https://i.ibb.co/rbMnjwz/u2.png" alt="u2"></a> 
+<a href="https://www.instagram.com/52hz_fan/"><img height="50px" src="https://i.ibb.co/CspsnKK/ig.png" alt="ig" border="0" style="center"></a> 
+<a href="https://twitter.com/Fan_R_Mao"><img height="50px" src="https://i.ibb.co/dPXvH0D/twiter.png" alt="twiter" border="0" style="center"></a> 
+<a href="https://imgbb.com/"><img height="50px" src="https://i.ibb.co/Bz9y04F/linkin.png" alt="linkin" border="0" style="center"></a> 
+<a href="https://imgbb.com/"><img height="50px" src="https://i.ibb.co/k8WwQJh/med.png" alt="medium"></a> 
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/8PLwnSH/pin.png" alt="pin"></a>  
 
