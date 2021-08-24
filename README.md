@@ -95,7 +95,7 @@ Jupyter Notebook         1 repo              █████░░░░░░�
 <a href="https://m.me/52hzfan"><img height="50px" src="https://i.ibb.co/WBdbfgK/mess.png" alt="message"></a> 
 <a href="https://www.youtube.com/channel/UCIV7WMa5O_TZKZZSzXcLmmw"><img height="50px" src="https://i.ibb.co/rbMnjwz/u2.png" alt="u2"></a> 
 <a href="https://www.instagram.com/52hz_fan/"><img height="50px" src="https://i.ibb.co/CspsnKK/ig.png" alt="ig" border="0" style="center"></a> 
-<a href="https://github.com/FanChiMao"><img height="100px" src="https://i.ibb.co/NVFbjJK/github.png" alt="github"></a> 
+<a href="https://github.com/FanChiMao"><img height="60px" src="https://i.ibb.co/NVFbjJK/github.png" alt="github"></a> 
 <a href="https://twitter.com/Fan_R_Mao"><img height="50px" src="https://i.ibb.co/dPXvH0D/twiter.png" alt="twiter" border="0" style="center"></a> 
 <a href="https://imgbb.com/"><img height="50px" src="https://i.ibb.co/Bz9y04F/linkin.png" alt="linkin"></a> 
 <a href="https://medium.com/@qaz5517359"><img height="50px" src="https://i.ibb.co/k8WwQJh/medium.png" alt="medium"></a> 
