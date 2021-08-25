@@ -90,6 +90,7 @@ Jupyter Notebook         1 repo              █████░░░░░░�
 
 
 ## 🏆 Contribution activity  
+[![My github activity graph](https://activity-graph.herokuapp.com/graph?username=FanChiMao)](https://github.com/FanChiMao/github-readme-activity-graph)  
 ![img](https://github.com/FanChiMao/FanChiMao/blob/output/github-snake.gif?raw=true)  
 
 ## 📬  Contact Me  
