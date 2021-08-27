@@ -90,13 +90,8 @@ MATLAB                   1 repo              █████░░░░░░�
 
 
 ## 🏆 Contribution activity  
-![img](https://github.com/FanChiMao/FanChiMao/blob/output/github-snake.gif?raw=true)  
-<details>  
-<summary>more detail...</summary>   
 [![My github activity graph](https://activity-graph.herokuapp.com/graph?username=FanChiMao&theme=github)](https://github.com/FanChiMao/github-readme-activity-graph)  
-</details>  
-
-
+![img](https://github.com/FanChiMao/FanChiMao/blob/output/github-snake.gif?raw=true)  
 
 ## 📬  Contact Me  
 <div align=center>
