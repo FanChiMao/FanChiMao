@@ -4,7 +4,8 @@
 ## 👨🏻‍💻  About Me 
 - 🎓 I am a master's student from National Chung Hsing University, Taiwan  
 - 🌱 I’m currently studying the Compute Version especially image restoration  
-- 📘 [My notion website](https://hypnotic-kingfisher-3ee.notion.site/LeetCode-fb26f4705745445f8c08293c9e3f3298) (Summarize the papers I read and LeetCode notes)    
+- 📘 [LeetCode notes summary](https://hypnotic-kingfisher-3ee.notion.site/LeetCode-fb26f4705745445f8c08293c9e3f3298)  
+- 📚 [Computer version's paper summary](https://www.notion.so/Paper-2909ce6c58164715aae6802117f08402)  
 
 ## 💻  Languages and Tools I Use
 - Languages  
