@@ -81,15 +81,10 @@ Jupyter Notebook         2 repos             ████░░░░░░░�
 Ruby                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
 
 ```
-
-
-
  Last Updated on 18/10/2021
 <!--END_SECTION:waka-->
 
-
 </details>  
-
 
 ## 🏆 Contribution activity  
 [![My github activity graph](https://activity-graph.herokuapp.com/graph?username=FanChiMao&theme=github)](https://github.com/FanChiMao/github-readme-activity-graph)  
