@@ -96,11 +96,11 @@ Ruby                     1 repo              ██░░░░░░░░░�
 
 ## 📺 Latest YouTube Videos  
   <!-- YOUTUBE:START -->
+- [Learning Enriched Features for Real Image Restoration and Enhancement](https://www.youtube.com/watch?v=fT2hH4c_cEs)
 - [SwinIR: Image Restoration Using Swin Transformer](https://www.youtube.com/watch?v=FCg6YL739eI)
 - [ICCE-TW 2021 WBTP-VTON](https://www.youtube.com/watch?v=Z7pu1OWh5BQ)
 - [HINet: Half Instance Normalization Network for Image Restoration](https://www.youtube.com/watch?v=0hHZ054rGpY)
 - [Multi Stage Progressive Image Restoration](https://www.youtube.com/watch?v=Lsp9iOO1qYU)
-- [Embedded Real-Time Operating System for System-on-Chip Term Project](https://www.youtube.com/watch?v=YIfOnbJ-TMI)
 <!-- YOUTUBE:END -->
 
 
