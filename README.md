@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=FanChiMao&color=blue&style=flat)  
 
 ## 👨🏻‍💻  About Me 
-- 🎓 I am a master's student from National Chung Hsing University, Taiwan  
+- 🎓 I am a graduate student from National Chung Hsing University, Taiwan  
 - 🌱 I’m currently studying the Compute Version especially image restoration  
 - 📘 [LeetCode notes summary](https://hypnotic-kingfisher-3ee.notion.site/LeetCode-fb26f4705745445f8c08293c9e3f3298)  
 - 📚 [Computer version's paper summary](https://www.notion.so/Paper-2909ce6c58164715aae6802117f08402)  
