@@ -97,11 +97,11 @@ Ruby                     1 repo              █░░░░░░░░░░�
 
 ## 📺 Latest YouTube Videos  
   <!-- YOUTUBE:START -->
+- [MAXIM: Multi-Axis MLP for Image Processing [Paper Review]](https://www.youtube.com/watch?v=gpUrUJwZxRQ)
 - [Restormer: Efficient Transformer for High-Resolution Image Restoration [Paper Review]](https://www.youtube.com/watch?v=wL7IRllbcC0)
 - [Learning Enriched Features for Real Image Restoration and Enhancement [Paper Review]](https://www.youtube.com/watch?v=fT2hH4c_cEs)
 - [SwinIR: Image Restoration Using Swin Transformer [Paper Review]](https://www.youtube.com/watch?v=FCg6YL739eI)
 - [ICCE-TW 2021 WBTP-VTON](https://www.youtube.com/watch?v=Z7pu1OWh5BQ)
-- [HINet: Half Instance Normalization Network for Image Restoration [Paper Review]](https://www.youtube.com/watch?v=0hHZ054rGpY)
 <!-- YOUTUBE:END -->
 
 
