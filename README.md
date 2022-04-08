@@ -1,6 +1,5 @@
 # 👋 Hello World, I'm Chi-Mao Fan 
 ![view](https://komarev.com/ghpvc/?username=FanChiMao&color=blue&style=flat)
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCIV7WMa5O_TZKZZSzXcLmmw)
 
 ## 👨🏻‍💻  About Me 
 - 🎓 I am a graduate student from National Chung Hsing University, Taiwan  
@@ -94,6 +93,7 @@ Ruby                     1 repo              █░░░░░░░░░░�
 
 
 ## 📺 Latest YouTube Videos  
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCIV7WMa5O_TZKZZSzXcLmmw)  
   <!-- YOUTUBE:START -->
 - [[ISCAS 2022] SUNet: Swin Transformer with UNet for Image Denoising](https://www.youtube.com/watch?v=XQsFxGaDTGk)
 - [MAXIM: Multi-Axis MLP for Image Processing [Paper Review]](https://www.youtube.com/watch?v=gpUrUJwZxRQ)
