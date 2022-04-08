@@ -107,8 +107,8 @@ Ruby                     1 repo              █░░░░░░░░░░�
 <img height="200em" src="https://media3.giphy.com/media/jfW2t8GVKovNriahyw/giphy.gif?cid=790b7611f10fcc55799559d7e4a870e542cdcc0b228e0f93&rid=giphy.gif&ct=s" />  
 </div>
 <div align=center>
-<a href="https://www.youtube.com/channel/UCIV7WMa5O_TZKZZSzXcLmmw"><img height="25px" src="https://img.shields.io/youtube/channel/views/UCIV7WMa5O_TZKZZSzXcLmmw?style=social" alt="u2"></a> 
+<a href="https://www.youtube.com/channel/UCIV7WMa5O_TZKZZSzXcLmmw"><img height="25px" src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="u2"></a> 
 <a href="https://twitter.com/Fan_R_Mao"><img height="25px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="twitter"></a> 
-<a href="https://github.com/FanChiMao"><img height="25px" src="https://img.shields.io/github/stars/FanChiMao?style=social" alt="github"></a> 
-<a href="https://www.reddit.com/user/52hz--whale"><img height="25px" src="https://img.shields.io/reddit/user-karma/link/52hz--whale?label=reddit&style=social" alt="reddit"></a> 
+<a href="https://www.linkedin.com/in/chimao-fan-432665220/"><img height="25px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="linkin"></a> 
+<a href="https://www.reddit.com/user/52hz--whale"><img height="25px" src="https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white" alt="reddit"></a> 
 </div>
