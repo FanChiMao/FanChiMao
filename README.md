@@ -1,5 +1,6 @@
 # 👋 Hello World, I'm Chi-Mao Fan 
-![](https://komarev.com/ghpvc/?username=FanChiMao&color=blue&style=flat)  
+![view](https://komarev.com/ghpvc/?username=FanChiMao&color=blue&style=flat)
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCIV7WMa5O_TZKZZSzXcLmmw)
 
 ## 👨🏻‍💻  About Me 
 - 🎓 I am a graduate student from National Chung Hsing University, Taiwan  
