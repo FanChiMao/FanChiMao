@@ -111,5 +111,5 @@ Ruby                     1 repo              █░░░░░░░░░░�
 <a href="https://m.me/52hzfan"><img height="50px" src="https://i.ibb.co/WBdbfgK/mess.png" alt="message"></a> 
 <a href="https://www.youtube.com/channel/UCIV7WMa5O_TZKZZSzXcLmmw"><img height="25px" src="https://img.shields.io/youtube/channel/views/UCIV7WMa5O_TZKZZSzXcLmmw?style=social" alt="u2"></a> 
 <a href="https://www.instagram.com/52hz_fan/"><img height="50px" src="https://i.ibb.co/CspsnKK/ig.png" alt="ig"></a> 
-<a href="https://github.com/FanChiMao"><img height="50px" src="https://i.ibb.co/NVFbjJK/github.png" alt="github"></a> 
+<a href="https://github.com/FanChiMao"><img height="25px" src="https://img.shields.io/github/stars/FanChiMao?style=social" alt="github"></a> 
 </div>
