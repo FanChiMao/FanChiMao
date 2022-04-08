@@ -114,5 +114,5 @@ Ruby                     1 repo              █░░░░░░░░░░�
 <a href="https://twitter.com/Fan_R_Mao"><img height="25px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="twitter"></a> 
 <a href="https://www.linkedin.com/in/chimao-fan-432665220/"><img height="25px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="linkin"></a> 
 <a href="https://www.reddit.com/user/52hz--whale"><img height="25px" src="https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white" alt="reddit"></a> 
-<a href="qaz5517359@gmail.com"><img height="25px" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" alt="mail"></a> 
+<a href="mailto:qaz5517359@gmail.com"><img height="25px" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" alt="mail"></a> 
 </div>
