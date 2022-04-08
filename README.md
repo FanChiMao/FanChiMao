@@ -108,7 +108,7 @@ Ruby                     1 repo              █░░░░░░░░░░�
 </div>
 <div align=center>
 <a href="https://www.youtube.com/channel/UCIV7WMa5O_TZKZZSzXcLmmw"><img height="25px" src="https://img.shields.io/youtube/channel/views/UCIV7WMa5O_TZKZZSzXcLmmw?style=social" alt="u2"></a> 
-<a href="https://twitter.com/Fan_R_Mao"><img height="25px" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FFan_R_Mao" alt="twitter"></a> 
+<a href="https://twitter.com/Fan_R_Mao"><img height="25px" src="https://img.shields.io/twitter/follow/Fan_R_Mao?label=Tweet&style=social" alt="twitter"></a> 
 <a href="https://github.com/FanChiMao"><img height="25px" src="https://img.shields.io/github/stars/FanChiMao?style=social" alt="github"></a> 
 <a href="https://www.reddit.com/user/52hz--whale"><img height="25px" src="https://img.shields.io/reddit/user-karma/link/52hz--whale?label=reddit&style=social" alt="reddit"></a> 
 </div>
