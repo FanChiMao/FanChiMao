@@ -122,4 +122,3 @@ Ruby                     1 repo              █░░░░░░░░░░�
 
 </div>
 
-![](https://hit.yhype.me/github/profile?user_id=85726287)
