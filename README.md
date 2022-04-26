@@ -3,6 +3,7 @@
 <div align=center>
 <img height="200em" src="https://media.giphy.com/media/itIqJoAi9qlbkQIcH9/giphy.gif" />  
 </div>
+
 ## 👨🏻‍💻  About Me 
 - 🎓 I am a graduate student from National Chung Hsing University, Taiwan  
 - 🌱 I’m currently studying the Computer Vision especially image restoration  
