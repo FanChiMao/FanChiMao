@@ -1,7 +1,7 @@
 # 👋 Hello World, I'm Chi-Mao Fan 
 ![view](https://komarev.com/ghpvc/?username=FanChiMao&color=blue&style=for-the-badge)  
 <div align=center>
-<img height="200em" src="https://media.giphy.com/media/itIqJoAi9qlbkQIcH9/giphy.gif" />  
+<a href="https://fanchimao.github.io/"><img height="200em" src="https://media.giphy.com/media/itIqJoAi9qlbkQIcH9/giphy.gif" />  
 </div>
 
 ## 👨🏻‍💻  About Me 
