@@ -110,6 +110,14 @@ Ruby                     1 repo              █░░░░░░░░░░�
 - [Learning Enriched Features for Real Image Restoration and Enhancement [Paper Review]](https://www.youtube.com/watch?v=fT2hH4c_cEs)
 <!-- YOUTUBE:END -->
 
+  
+## 📃 Publication  
+
+|       Topic            |  Title  |  Private set |  
+| ---------------------- | :----------: | :----------: |  
+| Image deraindrop       | ""|      0.780395|
+| Low-light enhancement  |      0.900077|      0.780395|
+  
 
 ## 📬  Contact Me  
 <div align=center>
