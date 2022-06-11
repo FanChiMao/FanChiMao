@@ -29,8 +29,6 @@
 
 - Publications  
   
-</style>  
-  
 |Topic| Title  |    Badge  |  
 |:---:|:------:|:---------:|  
 |<div style="width:500px">Image deraindrop</div>|   ["Compound Multi-branch Feature Fusion for Real Image Restoration (ICIP 2022)"](https://github.com/FanChiMao/CMFNet)  |[![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2206.02748)<br>[![GitHub Stars](https://img.shields.io/github/stars/FanChiMao/CMFNet?style=social)](https://github.com/FanChiMao/CMFNet)<br>[![GitHub Forks](https://img.shields.io/github/forks/FanChiMao/CMFNet?style=social)](https://github.com/FanChiMao/CMFNet)|
