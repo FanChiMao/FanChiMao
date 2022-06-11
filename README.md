@@ -19,12 +19,17 @@
 - Tools  
   ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white) ![Visual Studio](https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
 
+## 📊 Github Stats and Stuff  
+<div>
+<img src="https://github-readme-stats.vercel.app/api?username=FanChiMao&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />  
+<img height="200em" src="https://media2.giphy.com/media/sIfpwpdOtjm45NrP4Q/giphy.gif?cid=790b7611541ee7426e591227db64e463ed9d640954745a33&rid=giphy.gif&ct=s">
+</div>  
 
- 
-  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FanChiMao&hide=jupyter%20notebook&hide_border=true&layout=compact" />  
+
 ## 📃 Repositories (Publication and Competition)  
   
-<details> <summary><strong>Onpen repositories...</strong></summary>  
+<details> <summary><strong>Open repositories...</strong></summary>  
 
 |Topic| Title  |    Badge  |  
 |:---:|:------:|:---------:|  
@@ -38,16 +43,8 @@
 |  Data analysis and prediction |   ["全國智慧製造大數據分析競賽"](https://github.com/FanChiMao/Competition-2021-Pytorch-Reggression)  |[![official_websute](https://img.shields.io/badge/Official-Website-orange)](https://imbd2021.thu.edu.tw/)<br>[![GitHub Stars](https://img.shields.io/github/stars/FanChiMao/Competition-2021-Pytorch-Reggression?style=social)](https://github.com/FanChiMao/Competition-2021-Pytorch-Reggression)<br>[![GitHub Forks](https://img.shields.io/github/forks/FanChiMao/Competition-2021-Pytorch-Reggression?style=social)](https://github.com/FanChiMao/Competition-2021-Pytorch-Reggression)|
 |  Object detection  |   ["水稻無人機全彩影像植株位置自動標註與應用"](https://github.com/FanChiMao/Competition-2021-Pytorch-YOLOv4)  |[![official_websute](https://img.shields.io/badge/Official-Website-orange)](https://aidea-web.tw/topic/9c88c428-0aa7-480b-85e0-2d8fb2fcf3fc)<br>[![GitHub Stars](https://img.shields.io/github/stars/FanChiMao/Competition-2021-Pytorch-YOLOv4?style=social)](https://github.com/FanChiMao/Competition-2021-Pytorch-YOLOv4)<br>[![GitHub Forks](https://img.shields.io/github/forks/FanChiMao/Competition-2021-Pytorch-YOLOv4?style=social)](https://github.com/FanChiMao/Competition-2021-Pytorch-YOLOv4)|  
 
-</details>
+</details>  
   
-## 📊 Github Stats and Stuff  
-<div>
-<img src="https://github-readme-stats.vercel.app/api?username=FanChiMao&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />  
-<img height="200em" src="https://media2.giphy.com/media/sIfpwpdOtjm45NrP4Q/giphy.gif?cid=790b7611541ee7426e591227db64e463ed9d640954745a33&rid=giphy.gif&ct=s">
-</div>  
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FanChiMao&hide=jupyter%20notebook&hide_border=true&layout=compact" />  
-
 ## ⌨ Coding Stats and Stuff  
 <div align=center>  
 <img height="200em" src="https://media3.giphy.com/media/0p9YX5Io6TTyqr6Amc/giphy.gif?cid=790b761109e27f8a3fe54e0e5d101460b07d0d37d3bd518e&rid=giphy.gif&ct=g" />  
