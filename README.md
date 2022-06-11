@@ -22,6 +22,19 @@
 
 ## 📃 Repositories (Publication and Competition)  
 
+<style>
+table th:first-of-type {
+    width: 18.75%;
+}
+table th:nth-of-type(2) {
+    width: 66.66667%;
+}
+table th:nth-of-type(3) {
+    width: 14.583333333%;
+}
+</style>  
+  
+  
 <details>  
 <summary><strong>Onpen repositories...</strong></summary>   
 
