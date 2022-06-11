@@ -116,8 +116,8 @@ Ruby                     1 repo              █░░░░░░░░░░�
 |Topic| Title  |    Badge  |  
 |:---:|:------:|:---------------------------------:|  
 |  Image deraindrop   |   ["Compound Multi-branch Feature Fusion for Real Image Restoration" (ICIP 2022)"](https://github.com/FanChiMao/CMFNet)  |[![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2206.02748)<br>[![GitHub Stars](https://img.shields.io/github/stars/FanChiMao/CMFNet?style=social)](https://github.com/FanChiMao/CMFNet)<br>[![GitHub Forks](https://img.shields.io/github/forks/FanChiMao/CMFNet?style=social)](https://github.com/FanChiMao/CMFNet)|
-
-
+|  Low-light enhancement   |   ["Half Wavelet Attention on M-Net+ for Low-light Image Enhancement" (ICIP 2022)"](https://github.com/FanChiMao/HWMNet)  |[![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2203.01296)<br>[![GitHub Stars](https://img.shields.io/github/stars/FanChiMao/HWMNet?style=social)](https://github.com/FanChiMao/HWMNet)<br>[![GitHub Forks](https://img.shields.io/github/forks/FanChiMao/HWMNet?style=social)](https://github.com/FanChiMao/HWMNet)|
+|  Image denoising   |   ["Selective Residual M-Net for Real Image Denoising" (EUSIPCO 2022)"](https://github.com/FanChiMao/SRMNet)  |[![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2203.01645)<br>[![GitHub Stars](https://img.shields.io/github/stars/FanChiMao/SRMNet?style=social)](https://github.com/FanChiMao/SRMNet)<br>[![GitHub Forks](https://img.shields.io/github/forks/FanChiMao/SRMNet?style=social)](https://github.com/FanChiMao/SRMNet)|
 
 
   
