@@ -24,9 +24,20 @@
   
 ## 📃 Repositories (Publication and Competition)  
   
-<details>  
-<summary><strong>Onpen repositories...</strong></summary>   
 
+
+<style>
+table th:first-of-type {
+    width: 19%;
+}
+table th:nth-of-type(2) {
+    width: 67%;
+}
+table th:nth-of-type(3) {
+    width: 14%;
+}
+</style>  
+  
 - Publications  
   
 |Topic| Title  |    Badge  |  
@@ -47,7 +58,7 @@
 |  Data analysis and prediction |   ["全國智慧製造大數據分析競賽"](https://github.com/FanChiMao/Competition-2021-Pytorch-Reggression)  |[![official_websute](https://img.shields.io/badge/Official-website-orange)](https://imbd2021.thu.edu.tw/)<br>[![GitHub Stars](https://img.shields.io/github/stars/FanChiMao/Competition-2021-Pytorch-Reggression?style=social)](https://github.com/FanChiMao/Competition-2021-Pytorch-Reggression)<br>[![GitHub Forks](https://img.shields.io/github/forks/FanChiMao/Competition-2021-Pytorch-Reggression?style=social)](https://github.com/FanChiMao/Competition-2021-Pytorch-Reggression)|
 |  Object detection  |   ["水稻無人機全彩影像植株位置自動標註與應用"](https://github.com/FanChiMao/Competition-2021-Pytorch-YOLOv4)  |[![official_websute](https://img.shields.io/badge/Official-website-orange)](https://aidea-web.tw/topic/9c88c428-0aa7-480b-85e0-2d8fb2fcf3fc)<br>[![GitHub Stars](https://img.shields.io/github/stars/FanChiMao/Competition-2021-Pytorch-YOLOv4?style=social)](https://github.com/FanChiMao/Competition-2021-Pytorch-YOLOv4)<br>[![GitHub Forks](https://img.shields.io/github/forks/FanChiMao/Competition-2021-Pytorch-YOLOv4?style=social)](https://github.com/FanChiMao/Competition-2021-Pytorch-YOLOv4)|  
 
-</details>    
+
   
 ## 📊 Github Stats and Stuff  
 <div>
