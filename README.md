@@ -23,29 +23,29 @@
 ## 📃 Repositories (Publication and Competition)  
 
 <details>  
-<summary><strong>more detail...</strong></summary>   
+<summary><strong>Onpen repositories...</strong></summary>   
 
-- Publication  
+- Publications  
 
+|Topic| Title  |    Badge  |  
+|:---:|:------:|:---------:|  
+|  Image deraindrop   |   ["Compound Multi-branch Feature Fusion for Real Image Restoration (ICIP 2022)"](https://github.com/FanChiMao/CMFNet)  |[![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2206.02748)<br>[![GitHub Stars](https://img.shields.io/github/stars/FanChiMao/CMFNet?style=social)](https://github.com/FanChiMao/CMFNet)<br>[![GitHub Forks](https://img.shields.io/github/forks/FanChiMao/CMFNet?style=social)](https://github.com/FanChiMao/CMFNet)|
+|  Low-light enhancement   |   ["Half Wavelet Attention on M-Net+ for Low-light Image Enhancement (ICIP 2022)"](https://github.com/FanChiMao/HWMNet)  |[![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2203.01296)<br>[![GitHub Stars](https://img.shields.io/github/stars/FanChiMao/HWMNet?style=social)](https://github.com/FanChiMao/HWMNet)<br>[![GitHub Forks](https://img.shields.io/github/forks/FanChiMao/HWMNet?style=social)](https://github.com/FanChiMao/HWMNet)|
+|  Image denoising   |   ["Selective Residual M-Net for Real Image Denoising (EUSIPCO 2022)"](https://github.com/FanChiMao/SRMNet)  |[![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2203.01645)<br>[![GitHub Stars](https://img.shields.io/github/stars/FanChiMao/SRMNet?style=social)](https://github.com/FanChiMao/SRMNet)<br>[![GitHub Forks](https://img.shields.io/github/forks/FanChiMao/SRMNet?style=social)](https://github.com/FanChiMao/SRMNet)|
+|  Image denoising   |   ["SUNet: Swin Transformer with UNet for Image Denoising (ISCAS 2022)"](https://github.com/FanChiMao/SUNet)  |[![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2202.14009)<br>[![GitHub Stars](https://img.shields.io/github/stars/FanChiMao/SUNet?style=social)](https://github.com/FanChiMao/SUNet)<br>[![GitHub Forks](https://img.shields.io/github/forks/FanChiMao/SUNet?style=social)](https://github.com/FanChiMao/SUNet)|
+|  Virtual try-on   |   ["WBTP-VTON: Whole Body and Texture Preservation based Virtual Try-on Network (ICCE-TW 2021)"](https://github.com/FanChiMao/WBTP-VTON)  |[![official_paper](https://img.shields.io/badge/IEEE-Paper-blue)](https://ieeexplore.ieee.org/document/9603061)<br>[![GitHub Stars](https://img.shields.io/github/stars/FanChiMao/WBTP-VTON?style=social)](https://github.com/FanChiMao/WBTP-VTON)<br>[![GitHub Forks](https://img.shields.io/github/forks/FanChiMao/WBTP-VTON?style=social)](https://github.com/FanChiMao/WBTP-VTON)|  
+
+  
+- Competitions  
+  
 |Topic| Title  |    Badge  |  
 |:---:|:------:|:---------:|  
 |  Image deraindrop   |   ["Compound Multi-branch Feature Fusion for Real Image Restoration" (ICIP 2022)"](https://github.com/FanChiMao/CMFNet)  |[![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2206.02748)<br>[![GitHub Stars](https://img.shields.io/github/stars/FanChiMao/CMFNet?style=social)](https://github.com/FanChiMao/CMFNet)<br>[![GitHub Forks](https://img.shields.io/github/forks/FanChiMao/CMFNet?style=social)](https://github.com/FanChiMao/CMFNet)|
 |  Low-light enhancement   |   ["Half Wavelet Attention on M-Net+ for Low-light Image Enhancement" (ICIP 2022)"](https://github.com/FanChiMao/HWMNet)  |[![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2203.01296)<br>[![GitHub Stars](https://img.shields.io/github/stars/FanChiMao/HWMNet?style=social)](https://github.com/FanChiMao/HWMNet)<br>[![GitHub Forks](https://img.shields.io/github/forks/FanChiMao/HWMNet?style=social)](https://github.com/FanChiMao/HWMNet)|
 |  Image denoising   |   ["Selective Residual M-Net for Real Image Denoising" (EUSIPCO 2022)"](https://github.com/FanChiMao/SRMNet)  |[![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2203.01645)<br>[![GitHub Stars](https://img.shields.io/github/stars/FanChiMao/SRMNet?style=social)](https://github.com/FanChiMao/SRMNet)<br>[![GitHub Forks](https://img.shields.io/github/forks/FanChiMao/SRMNet?style=social)](https://github.com/FanChiMao/SRMNet)|
 |  Image denoising   |   ["SUNet: Swin Transformer with UNet for Image Denoising" (ISCAS 2022)"](https://github.com/FanChiMao/SUNet)  |[![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2202.14009)<br>[![GitHub Stars](https://img.shields.io/github/stars/FanChiMao/SUNet?style=social)](https://github.com/FanChiMao/SUNet)<br>[![GitHub Forks](https://img.shields.io/github/forks/FanChiMao/SUNet?style=social)](https://github.com/FanChiMao/SUNet)|
-|  Virtual try-on   |   ["WBTP-VTON: Whole Body and Texture Preservation based Virtual Try-on Network" (ICCE-TW 2021)"](https://github.com/FanChiMao/WBTP-VTON)  |[![official_paper](https://img.shields.io/badge/IEEE-Paper-blue)](https://ieeexplore.ieee.org/document/9603061)<br>[![GitHub Stars](https://img.shields.io/github/stars/FanChiMao/WBTP-VTON?style=social)](https://github.com/FanChiMao/WBTP-VTON)<br>[![GitHub Forks](https://img.shields.io/github/forks/FanChiMao/WBTP-VTON?style=social)](https://github.com/FanChiMao/WBTP-VTON)|  
+|  Object detection  |   ["水稻無人機全彩影像植株位置自動標註與應用"](https://github.com/FanChiMao/Competition-2021-Pytorch-YOLOv4)  |[![official_websute](https://img.shields.io/badge/Official-website-orange)](https://aidea-web.tw/topic/9c88c428-0aa7-480b-85e0-2d8fb2fcf3fc)<br>[![GitHub Stars](https://img.shields.io/github/stars/FanChiMao/Competition-2021-Pytorch-YOLOv4?style=social)](https://github.com/FanChiMao/Competition-2021-Pytorch-YOLOv4)<br>[![GitHub Forks](https://img.shields.io/github/forks/FanChiMao/Competition-2021-Pytorch-YOLOv4?style=social)](https://github.com/FanChiMao/Competition-2021-Pytorch-YOLOv4)|  
 
-  
-- Competition  
-  
-|Topic| Title  |    Badge  |  
-|:---:|:------:|:---------:|  
-|  Image deraindrop   |   ["Compound Multi-branch Feature Fusion for Real Image Restoration" (ICIP 2022)"](https://github.com/FanChiMao/CMFNet)  |[![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2206.02748)<br>[![GitHub Stars](https://img.shields.io/github/stars/FanChiMao/CMFNet?style=social)](https://github.com/FanChiMao/CMFNet)<br>[![GitHub Forks](https://img.shields.io/github/forks/FanChiMao/CMFNet?style=social)](https://github.com/FanChiMao/CMFNet)|
-|  Low-light enhancement   |   ["Half Wavelet Attention on M-Net+ for Low-light Image Enhancement" (ICIP 2022)"](https://github.com/FanChiMao/HWMNet)  |[![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2203.01296)<br>[![GitHub Stars](https://img.shields.io/github/stars/FanChiMao/HWMNet?style=social)](https://github.com/FanChiMao/HWMNet)<br>[![GitHub Forks](https://img.shields.io/github/forks/FanChiMao/HWMNet?style=social)](https://github.com/FanChiMao/HWMNet)|
-|  Image denoising   |   ["Selective Residual M-Net for Real Image Denoising" (EUSIPCO 2022)"](https://github.com/FanChiMao/SRMNet)  |[![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2203.01645)<br>[![GitHub Stars](https://img.shields.io/github/stars/FanChiMao/SRMNet?style=social)](https://github.com/FanChiMao/SRMNet)<br>[![GitHub Forks](https://img.shields.io/github/forks/FanChiMao/SRMNet?style=social)](https://github.com/FanChiMao/SRMNet)|
-|  Image denoising   |   ["SUNet: Swin Transformer with UNet for Image Denoising" (ISCAS 2022)"](https://github.com/FanChiMao/SUNet)  |[![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2202.14009)<br>[![GitHub Stars](https://img.shields.io/github/stars/FanChiMao/SUNet?style=social)](https://github.com/FanChiMao/SUNet)<br>[![GitHub Forks](https://img.shields.io/github/forks/FanChiMao/SUNet?style=social)](https://github.com/FanChiMao/SUNet)|
-|  Virtual try-on   |   ["WBTP-VTON: Whole Body and Texture Preservation based Virtual Try-on Network" (ICCE-TW 2021)"](https://github.com/FanChiMao/WBTP-VTON)  |[![official_paper](https://img.shields.io/badge/IEEE-Paper-blue)](https://ieeexplore.ieee.org/document/9603061)<br>[![GitHub Stars](https://img.shields.io/github/stars/FanChiMao/WBTP-VTON?style=social)](https://github.com/FanChiMao/WBTP-VTON)<br>[![GitHub Forks](https://img.shields.io/github/forks/FanChiMao/WBTP-VTON?style=social)](https://github.com/FanChiMao/WBTP-VTON)|  
-  
 </details>    
   
 ## 📊 Github Stats and Stuff  
