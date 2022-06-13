@@ -3,7 +3,6 @@
 <div align=center>
 <a href="https://fanchimao.github.io/" target="_blank"><img src="https://github.com/FanChiMao/FanChiMao/blob/main/images/result.gif" /><a/>  
 </div>
-<script src="https://embed.github.com/view/3d/<username>/<repo>/<ref>/<path_to_file>"></script>
   
 ## 👨🏻‍💻  About Me 
 - 🎓 I am a graduate student from National Chung Hsing University, Taiwan  
