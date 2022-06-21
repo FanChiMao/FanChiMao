@@ -10,6 +10,7 @@
 - 🎨 Some interesting deep learning restoration demos on my [HuggingFace's space](https://huggingface.co/52Hz)  
 - 📘 [LeetCode notes summary](https://hypnotic-kingfisher-3ee.notion.site/LeetCode-fb26f4705745445f8c08293c9e3f3298)  
 - 📚 [Computer version's paper summary](https://www.notion.so/Paper-2909ce6c58164715aae6802117f08402)  
+- 📺 My [YouTube channel](https://www.youtube.com/channel/UCIV7WMa5O_TZKZZSzXcLmmw) including the videos of paper review and my oral presentation  
 - 📄 My resume ([English](https://docs.google.com/document/d/1MEseTKjMAqNhq5eezhyQlgMZ0s6d2Z3vgm2GOIpg8SI/edit#heading=h.yi4ugqaoamaf), [Chinese](https://fanchimao.github.io/))  
 
 ## 💻  Languages and Tools I Use
