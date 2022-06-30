@@ -116,11 +116,11 @@ Ruby                     1 repo              █░░░░░░░░░░�
 
 ## 📺 Latest YouTube Videos  
   <!-- YOUTUBE:START -->
+- [[EUSIPCO 2022] Selective Residual M-Net for Real Image Denoising](https://www.youtube.com/watch?v=uju2fSa44h4)
 - [NAFNet: Simple Baselines for Image Restoration [Paper Review]](https://www.youtube.com/watch?v=r0Pd0TXc9is)
 - [[ISCAS 2022] SUNet: Swin Transformer with UNet for Image Denoising](https://www.youtube.com/watch?v=XQsFxGaDTGk)
 - [MAXIM: Multi-Axis MLP for Image Processing [Paper Review]](https://www.youtube.com/watch?v=gpUrUJwZxRQ)
 - [Restormer: Efficient Transformer for High-Resolution Image Restoration [Paper Review]](https://www.youtube.com/watch?v=wL7IRllbcC0)
-- [Learning Enriched Features for Real Image Restoration and Enhancement [Paper Review]](https://www.youtube.com/watch?v=fT2hH4c_cEs)
 <!-- YOUTUBE:END -->
 
   
