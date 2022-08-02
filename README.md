@@ -1,6 +1,5 @@
 # 👋 Hello World, I'm Chi-Mao Fan  
 ![view](https://komarev.com/ghpvc/?username=FanChiMao&color=blue&style=for-the-badge)  
-
 <div align=center>
 <a href="https://fanchimao.github.io/" target="_blank"><img src="https://github.com/FanChiMao/FanChiMao/blob/main/images/result.gif" /><a/>  
 </div>
