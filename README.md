@@ -5,8 +5,9 @@
 </div>
   
 ## 👨🏻‍💻  About Me 
-- 🎓 I am a graduate student from [National Chung Hsing University](http://www.ee.nchu.edu.tw), Taiwan  
-- 🌱 I’m currently studying the Computer Vision especially image restoration  
+- 🧰 R&D Engineer in ASUS
+- 🎓 M.S. degree in Computer Science from [National Chung Hsing University](http://www.ee.nchu.edu.tw), Taiwan  
+- 🌱 I’m major in the Computer Vision especially image restoration  
 - 🎨 Some interesting deep learning restoration demos on my [HuggingFace's space](https://huggingface.co/52Hz)  
 - 📘 [LeetCode notes summary](https://hypnotic-kingfisher-3ee.notion.site/LeetCode-fb26f4705745445f8c08293c9e3f3298)  
 - 📚 [Computer version's paper summary](https://www.notion.so/Paper-2909ce6c58164715aae6802117f08402)  
