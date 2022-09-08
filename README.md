@@ -5,7 +5,7 @@
 </div>
   
 ## 👨🏻‍💻  About Me 
-- 🧰 R&D Engineer in ASUS
+- 🧰 Product R&D Engineer of Digital Image Technology Division in ASUS
 - 🎓 M.S. degree in Computer Science from [National Chung Hsing University](http://www.ee.nchu.edu.tw), Taiwan  
 - 🌱 I’m major in the Computer Vision especially image restoration  
 - 🎨 Some interesting deep learning restoration demos on my [HuggingFace's space](https://huggingface.co/52Hz)  
