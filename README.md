@@ -59,7 +59,7 @@
 <summary>more detail...</summary>   
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C755%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C763%20hrs%2036%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -88,10 +88,11 @@ Sunday       138 commits    ███░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    18 hrs 27 mins      █████████████████████████   100.0%
+Other                    26 hrs 1 min        ████████████████████████░   97.71% 
+C++                      36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.29%
 
 💻 Operating System: 
-Windows                  18 hrs 27 mins      █████████████████████████   100.0%
+Windows                  26 hrs 38 mins      █████████████████████████   100.0%
 
 ```
 
@@ -108,7 +109,7 @@ Ruby                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/09/2022 18:57:40 UTC
+ Last Updated on 17/09/2022 18:53:01 UTC
 <!--END_SECTION:waka-->
 
 </details>  
