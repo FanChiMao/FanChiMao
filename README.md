@@ -5,7 +5,7 @@
 </div>
   
 ## 👨🏻‍💻  About Me 
-- 🧰 Product R&D Engineer at Digital Image Technology Dept., [ASUSTeK Computer](https://www.asus.com/) Inc.
+- 🧰 R&D Engineer at Digital Image Technology Divs., [ASUSTeK Computer](https://www.asus.com/) Inc.
 - 🎓 M.S. degree in Computer Science from [National Chung Hsing University](http://www.ee.nchu.edu.tw), Taiwan  
 - 🌱 I’m major in the Computer Vision especially image restoration  
 - 🎨 Some interesting deep learning restoration demos on my [HuggingFace's space](https://huggingface.co/52Hz)  
