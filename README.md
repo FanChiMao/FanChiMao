@@ -124,11 +124,11 @@ Ruby                     1 repo              █░░░░░░░░░░�
 
 ## 📺 Latest YouTube Videos  
   <!-- YOUTUBE:START -->
-- [[ICIP 2022] Half Wavelet Attention on M-Net+ for Low-light Image Enhancement](https://www.youtube.com/watch?v=docLJbxJkyA)
-- [[EUSIPCO 2022] Selective Residual M-Net for Real Image Denoising](https://www.youtube.com/watch?v=uju2fSa44h4)
-- [NAFNet: Simple Baselines for Image Restoration [Paper Review]](https://www.youtube.com/watch?v=r0Pd0TXc9is)
-- [[ISCAS 2022] SUNet: Swin Transformer with UNet for Image Denoising](https://www.youtube.com/watch?v=XQsFxGaDTGk)
-- [MAXIM: Multi-Axis MLP for Image Processing [Paper Review]](https://www.youtube.com/watch?v=gpUrUJwZxRQ)
+- [Taiwan 新北瑞芳 水湳洞 陰陽海](https://www.youtube.com/watch?v=ec2Rnvuzkyk)
+- [Taiwan 苗栗後龍 好望角](https://www.youtube.com/watch?v=naRfCyxn49g)
+- [Taiwan 新北瑞芳 十三層遺址](https://www.youtube.com/watch?v=zeDCAMSaS3k)
+- [Taiwan 新北石碇 鱷魚島 千島湖](https://www.youtube.com/watch?v=Ytm6G0-rNqM)
+- [Taiwan 新北烏來 烏來瀑布](https://www.youtube.com/watch?v=UbJVN6QZ26k)
 <!-- YOUTUBE:END -->
 
   
