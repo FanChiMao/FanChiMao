@@ -121,11 +121,11 @@ C++                      1 repo              █░░░░░░░░░░�
 
 ## 📺 Latest YouTube Videos  
   <!-- YOUTUBE:START -->
+- [Taiwan 新北淡水 淡海觀浪處](https://www.youtube.com/watch?v=cSI6zm_1JGw)
 - [[Paper Review] Segment Anything Model](https://www.youtube.com/watch?v=pjnXD1dwoDA)
 - [Taiwan 新北瑞芳 水湳洞 陰陽海](https://www.youtube.com/watch?v=ec2Rnvuzkyk)
 - [Taiwan 苗栗後龍 好望角](https://www.youtube.com/watch?v=naRfCyxn49g)
 - [Taiwan 新北瑞芳 十三層遺址](https://www.youtube.com/watch?v=zeDCAMSaS3k)
-- [Taiwan 新北石碇 鱷魚島 千島湖](https://www.youtube.com/watch?v=Ytm6G0-rNqM)
 <!-- YOUTUBE:END -->
 
   
