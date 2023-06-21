@@ -60,7 +60,7 @@
 <summary>more detail...</summary>   
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C670%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C672%20hrs%2019%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -110,7 +110,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/06/2023 18:39:25 UTC
+ Last Updated on 21/06/2023 18:39:11 UTC
 <!--END_SECTION:waka-->
 
 </details>  
