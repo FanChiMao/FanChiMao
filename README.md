@@ -121,11 +121,11 @@ C++                      1 repo              █░░░░░░░░░░�
 
 ## 📺 Latest YouTube Videos  
   <!-- YOUTUBE:START -->
+- [Taiwan 台東池上 伯朗大道 #travel #dronevideo #drone #taiwan](https://www.youtube.com/watch?v=Kk6JuTUQkhI)
 - [Taiwan 台北北投 北投公園](https://www.youtube.com/watch?v=TJc0e4groIU)
 - [Taiwan 新北石門 綠石槽](https://www.youtube.com/watch?v=dJk8MMEtvbE)
 - [[Paper Review] YOLACT: Real-time Instance Segmentation](https://www.youtube.com/watch?v=1Jpt4u0S5zg)
 - [Taiwan 新北淡水 淡海觀浪處](https://www.youtube.com/watch?v=cSI6zm_1JGw)
-- [[Paper Review] Segment Anything Model](https://www.youtube.com/watch?v=pjnXD1dwoDA)
 <!-- YOUTUBE:END -->
 
   
