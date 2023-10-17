@@ -109,7 +109,10 @@ C++                      1 repo              █░░░░░░░░░░�
 </details>  
 
 ## 🏆 Contribution activity  
-![img](https://github.com/FanChiMao/FanChiMao/blob/output/github-snake.gif?raw=true)  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 
 ## 📺 Latest YouTube Videos  
