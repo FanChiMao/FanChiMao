@@ -109,7 +109,7 @@ C++                      1 repo              █░░░░░░░░░░�
 </details>  
 
 ## 🏆 Contribution activity  
-<img alt="github-snake" src="github-snake.svg" />  
+<img alt="github-snake" src="github-contribution-grid-snake.svg" />  
 
 
 ## 📺 Latest YouTube Videos  
