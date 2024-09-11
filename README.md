@@ -41,7 +41,7 @@
 |<strong>📑Paper</strong><br>Virtual try-on   |   ["WBTP-VTON: Whole Body and Texture Preservation based Virtual Try-on Network (ICCE-TW 2021)"](https://github.com/FanChiMao/WBTP-VTON)  |[![official_paper](https://img.shields.io/badge/IEEE-Paper-blue)](https://ieeexplore.ieee.org/document/9603061)<br>[![GitHub Stars](https://img.shields.io/github/stars/FanChiMao/WBTP-VTON?style=social)](https://github.com/FanChiMao/WBTP-VTON)<br>[![GitHub Forks](https://img.shields.io/github/forks/FanChiMao/WBTP-VTON?style=social)](https://github.com/FanChiMao/WBTP-VTON)<br>![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FFanChiMao%2FWBTP-VTON&label=visitors&countColor=%232ccce4&style=plastic)|   
 
 <details>  
-<summary>⭐ Star History </summary>   
+<summary>⭐ Publication Star History </summary>   
 
 
 [![Star History Chart](https://api.star-history.com/svg?repos=FanChiMao/CMFNet,FanChiMao/SUNet,FanChiMao/HWMNet,FanChiMao/SRMNet&type=Date)](https://star-history.com/#FanChiMao/CMFNet&FanChiMao/SUNet&FanChiMao/HWMNet&FanChiMao/SRMNet&Date)
@@ -154,8 +154,3 @@ C++                      1 repo              █░░░░░░░░░░�
 
 </div>
 
-
-
-
-
-[![Star History Chart](https://api.star-history.com/svg?repos=FanChiMao/CMFNet,FanChiMao/SUNet,FanChiMao/HWMNet,FanChiMao/SRMNet&type=Date)](https://star-history.com/#FanChiMao/CMFNet&FanChiMao/SUNet&FanChiMao/HWMNet&FanChiMao/SRMNet&Date)
