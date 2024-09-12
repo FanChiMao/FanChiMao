@@ -1,7 +1,8 @@
-# 👋 Hello World, I'm Chi-Mao Fan  
-![view](https://komarev.com/ghpvc/?username=FanChiMao&color=blue&style=for-the-badge)  
+# 👋 Hello World, I'm Chi-Mao Fan
+![VisitorsCount](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FFanChiMao&label=Profile%20views&countColor=%23007EC6&style=flat)
+
 <div align=center>
-<a href="https://fanchimao.github.io/" target="_blank"><img src="https://github.com/FanChiMao/FanChiMao/blob/main/images/result.gif" /><a/>  
+<a href="https://52hzfan.com" target="_blank"><img src="https://github.com/FanChiMao/FanChiMao/blob/main/images/result.gif" /><a/>  
 </div>
   
 ## 👨🏻‍💻  About Me 
@@ -11,7 +12,7 @@
 - 🎨 Some interesting deep learning restoration demos on my [HuggingFace's space](https://huggingface.co/52Hz)  
 - 📘 [LeetCode notes summary](https://hypnotic-kingfisher-3ee.notion.site/LeetCode-fb26f4705745445f8c08293c9e3f3298)  
 - 📚 [Computer version's paper summary](https://www.notion.so/Paper-2909ce6c58164715aae6802117f08402)  
-- 📺 My [YouTube channel](https://www.youtube.com/channel/UCIV7WMa5O_TZKZZSzXcLmmw) including the videos of paper review and my oral presentation  
+- 📺 My [YouTube channel](https://www.youtube.com/@52hzfan) including the videos of paper review and my oral presentation  
 - 📑 My [thesis](https://github.com/FanChiMao/SRMNet-thesis) for image restoration
 - 📝 My resume ([English](https://docs.google.com/document/d/1MEseTKjMAqNhq5eezhyQlgMZ0s6d2Z3vgm2GOIpg8SI/edit#heading=h.yi4ugqaoamaf), [Chinese](https://fanchimao.github.io/))  
 
@@ -35,7 +36,6 @@
 
 <details>  
 <summary>⭐ Publication Star History </summary>   
-
 
 [![Star History Chart](https://api.star-history.com/svg?repos=FanChiMao/CMFNet,FanChiMao/SUNet,FanChiMao/HWMNet,FanChiMao/SRMNet&type=Date)](https://star-history.com/#FanChiMao/CMFNet&FanChiMao/SUNet&FanChiMao/HWMNet&FanChiMao/SRMNet&Date)
 </details>
@@ -65,26 +65,26 @@
 <summary>more detail...</summary>   
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C258%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C258%20hrs%2030%20mins-blue)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                49 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
-🌆 Daytime                727 commits         ██████████░░░░░░░░░░░░░░░   39.97 % 
-🌃 Evening                921 commits         █████████████░░░░░░░░░░░░   50.63 % 
-🌙 Night                  122 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
+🌞 Morning                49 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+🌆 Daytime                722 commits         ██████████░░░░░░░░░░░░░░░   39.80 % 
+🌃 Evening                921 commits         █████████████░░░░░░░░░░░░   50.77 % 
+🌙 Night                  122 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   228 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
-Tuesday                  488 commits         ███████░░░░░░░░░░░░░░░░░░   26.83 % 
-Wednesday                271 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
-Thursday                 286 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
-Friday                   237 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
-Saturday                 139 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
-Sunday                   170 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
+Monday                   228 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
+Tuesday                  488 commits         ███████░░░░░░░░░░░░░░░░░░   26.90 % 
+Wednesday                266 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
+Thursday                 286 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
+Friday                   237 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
+Saturday                 139 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
+Sunday                   170 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
 ```
 
 
@@ -92,10 +92,10 @@ Sunday                   170 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   20 mins             █████████████████████████   100.00 % 
+Python                   37 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  20 mins             █████████████████████████   100.00 % 
+Windows                  37 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -111,7 +111,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/09/2024 18:44:37 UTC
+ Last Updated on 10/09/2024 18:44:55 UTC
 <!--END_SECTION:waka-->
 
 </details>  
@@ -119,13 +119,6 @@ C++                      1 repo              █░░░░░░░░░░�
 ## 🏆 Contribution activity  
 ![img](https://raw.githubusercontent.com/FanChiMao/FanChiMao/output/github-contribution-grid-snake.svg)  
 
-## 📊 Github Stats and Stuff  
-<div>
-<img src="https://github-readme-stats.vercel.app/api?username=FanChiMao&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />  
-<img height="200em" src="https://media2.giphy.com/media/sIfpwpdOtjm45NrP4Q/giphy.gif?cid=790b7611541ee7426e591227db64e463ed9d640954745a33&rid=giphy.gif&ct=s">
-</div>  
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FanChiMao&hide=jupyter%20notebook&hide_border=true&layout=compact" />  
 
 
 ## 📺 Latest YouTube Videos  
@@ -137,7 +130,14 @@ C++                      1 repo              █░░░░░░░░░░�
 - [[ICIP 2023] Compound Multi-branch Feature Fusion for Image Deraindrop](https://www.youtube.com/watch?v=8UCxeuP2A_Q)
 <!-- YOUTUBE:END -->
 
-  
+
+## 📊 Github Stats and Stuff  
+<div>
+<img src="https://github-readme-stats.vercel.app/api?username=FanChiMao&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />  
+<img height="200em" src="https://media2.giphy.com/media/sIfpwpdOtjm45NrP4Q/giphy.gif?cid=790b7611541ee7426e591227db64e463ed9d640954745a33&rid=giphy.gif&ct=s">
+</div>  
+
+
 ## 📬  Contact Me  
 <div align=center>
 <img height="200em" src="https://media3.giphy.com/media/jfW2t8GVKovNriahyw/giphy.gif?cid=790b7611f10fcc55799559d7e4a870e542cdcc0b228e0f93&rid=giphy.gif&ct=s" /><img height="200em" src="https://media3.giphy.com/media/0p9YX5Io6TTyqr6Amc/giphy.gif?cid=790b761109e27f8a3fe54e0e5d101460b07d0d37d3bd518e&rid=giphy.gif&ct=g" />  
@@ -145,8 +145,8 @@ C++                      1 repo              █░░░░░░░░░░�
 <div align=center>
 <a href="mailto:qaz5517359@gmail.com"><img height="25px" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="mail"></a> 
 <a href="https://www.facebook.com/52hzfan/"><img height="25px" src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="fb"></a> 
-<a href="https://www.instagram.com/52hz_fan/"><img height="25px" src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="fb"></a> 
-<a href="https://www.youtube.com/channel/UCIV7WMa5O_TZKZZSzXcLmmw"><img height="25px" src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="u2"></a> 
+<a href="https://www.instagram.com/52hzfan/"><img height="25px" src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="fb"></a> 
+<a href="https://www.youtube.com/@52hzfan"><img height="25px" src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="u2"></a> 
 <a href="https://twitter.com/Fan_R_Mao"><img height="25px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="twitter"></a> 
 <a href="https://www.linkedin.com/in/chimao-fan-432665220/"><img height="25px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="linkin"></a> 
 <a href="https://www.reddit.com/user/52hz--whale"><img height="25px" src="https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white" alt="reddit"></a> 
