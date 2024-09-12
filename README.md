@@ -1,115 +1,153 @@
-👋 Hello World, I'm Chi-Mao Fan
-VisitorsCount
+# 👋 Hello World, I'm Chi-Mao Fan
+![VisitorsCount](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FFanChiMao&label=Profile%20views&countColor=%23007EC6&style=flat)
+
+<div align=center>
+<a href="https://52hzfan.com" target="_blank"><img src="https://github.com/FanChiMao/FanChiMao/blob/main/images/result.gif" /><a/>  
+</div>
+  
+## 👨🏻‍💻  About Me 
+- 🧰 R&D Engineer Dept., Digital Image Technology Div., [ASUSTeK Computer](https://www.asus.com/) Inc.
+- 🎓 M.S. degree from [National Chung Hsing University](http://www.ee.nchu.edu.tw), Taiwan  
+- 🌱 I’m major in the Computer Vision especially [image restoration](https://www.researchgate.net/profile/Chi-Mao-Fan/research)  
+- 🎨 Some interesting deep learning restoration demos on my [HuggingFace's space](https://huggingface.co/52Hz)  
+- 📘 [LeetCode notes summary](https://hypnotic-kingfisher-3ee.notion.site/LeetCode-fb26f4705745445f8c08293c9e3f3298)  
+- 📚 [Computer version's paper summary](https://www.notion.so/Paper-2909ce6c58164715aae6802117f08402)  
+- 📺 My [YouTube channel](https://www.youtube.com/@52hzfan) including the videos of paper review and my oral presentation  
+- 📑 My [thesis](https://github.com/FanChiMao/SRMNet-thesis) for image restoration
+- 📝 My resume ([English](https://docs.google.com/document/d/1MEseTKjMAqNhq5eezhyQlgMZ0s6d2Z3vgm2GOIpg8SI/edit#heading=h.yi4ugqaoamaf), [Chinese](https://fanchimao.github.io/))  
 
 
-👨🏻‍💻 About Me
-🧰 R&D Engineer Dept., Digital Image Technology Div., ASUSTeK Computer Inc.
-🎓 M.S. degree from National Chung Hsing University, Taiwan
-🌱 I’m major in the Computer Vision especially image restoration
-🎨 Some interesting deep learning restoration demos on my HuggingFace's space
-📘 LeetCode notes summary
-📚 Computer version's paper summary
-📺 My YouTube channel including the videos of paper review and my oral presentation
-📑 My thesis for image restoration
-📝 My resume (English, Chinese)
-📃 Repositories (Publication)
-Topic	Title	Badge
-📑Paper
-Image deraindrop	ieeebadge
-"Compound Multi-branch Feature Fusion for Real Image Restoration"	officialpaper
-GitHub Stars
-GitHub Forks
-Visitors
-📑Paper
-Low-light enhancement	ieeebadge PWC
-"Half Wavelet Attention on M-Net+ for Low-light Image Enhancement"	officialpaper
-GitHub Stars
-GitHub Forks
-Visitors
-📑Paper
-Image denoising	ieeebadge PWC
-"Selective Residual M-Net for Real Image Denoising"	officialpaper
-GitHub Stars
-GitHub Forks
-Visitors
-📑Paper
-Image denoising	ieeebadge
-"SUNet: Swin Transformer with UNet for Image Denoising"	officialpaper
-GitHub Stars
-GitHub Forks
-Visitors
-📑Paper
-Virtual try-on	ieeebadge
-"WBTP-VTON: Whole Body and Texture Preservation based Virtual Try-on Network"	officialpaper
-GitHub Stars
-GitHub Forks
-Visitors
-⭐ Publication Star History
-🏅 Repositories (Competition)
-Topic	Title	Badge
-🏆Competition
-Object tracking	ranking
-"跨相機多目標車輛追蹤競賽
-Cross-Camera Multi-Object Tracking Contest"	officialwebsute
-GitHub Stars
-GitHub Forks
-Visitors
-🏆Competition
-Object tracking	ranking
-"教電腦看羽球
-Shuttlecock Localization, Pose-Estimation and Single-Object Tracking Contest"	officialwebsute
-GitHub Stars
-GitHub Forks
-Visitors
-🏆Competition
-Music transcription	ranking
-"Intel DevCUP 概念組
-Cyber Audio: Music Transcription"	officialwebsute
-GitHub Stars
-GitHub Forks
-Visitors
-🏆Competition
-Image classification	ranking
-"尋找花中君子－蘭花種類辨識及分類
-Orchid Species Identification and Classification Contest"	officialwebsute
-GitHub Stars
-GitHub Forks
-Visitors
-🏆Competition
-Automated program trading	ranking
-"第四屆高雄盃程式交易競賽
-The 4th Kaohsiung Cup Trading Competition"	officialwebste
-GitHub Stars
-GitHub Forks
-Visitors
-🏆Competition
-Data analysis and prediction	ranking
-"全國智慧製造大數據分析競賽
-Intelligent Manufacturing and Big Data Analystics Contest"	officialwebsute
-GitHub Stars
-GitHub ForksVisitors
-🏆Competition
-Object detection	ranking
-"水稻無人機全彩影像植株位置自動標註與應用
-Crop Location Auto-Labeling Competition"	officialwebsute
-GitHub Stars
-GitHub ForksVisitors
-⌨ Coding Stats and Stuff
+## 📃 Repositories (Publication)  
 
-Avinal WakaTime Activity
-more detail...
-🏆 Contribution activity
-img
+|Topic|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     Title                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |    Badge  |  
+|:---:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------:|  
+|<strong>📑Paper</strong><br>Image deraindrop|                                                                                                                                             ![ieeebadge](https://img.shields.io/badge/IEEE-ICIP%202023-blue.svg?logo=data:image/png;base64,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)<br>["Compound Multi-branch Feature Fusion for Real Image Restoration"](https://github.com/FanChiMao/CMFNet)                                                                                                                                              |[![official_paper](https://img.shields.io/badge/IEEE-Paper-blue)](https://ieeexplore.ieee.org/document/10222907)<br>[![GitHub Stars](https://img.shields.io/github/stars/FanChiMao/CMFNet?style=social)](https://github.com/FanChiMao/CMFNet)<br>[![GitHub Forks](https://img.shields.io/github/forks/FanChiMao/CMFNet?style=social)](https://github.com/FanChiMao/CMFNet)<br>![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FFanChiMao%2FCMFNet&label=visitors&countColor=%232ccce4&style=plastic)|
+|<strong>📑Paper</strong><br>Low-light enhancement   | ![ieeebadge](https://img.shields.io/badge/IEEE-ICIP%202022-blue.svg?logo=data:image/png;base64,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) [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/half-wavelet-attention-on-m-net-for-low-light/low-light-image-enhancement-on-lol)](https://paperswithcode.com/sota/low-light-image-enhancement-on-lol?p=half-wavelet-attention-on-m-net-for-low-light)<br>["Half Wavelet Attention on M-Net+ for Low-light Image Enhancement"](https://github.com/FanChiMao/HWMNet) |[![official_paper](https://img.shields.io/badge/IEEE-Paper-blue)](https://ieeexplore.ieee.org/document/9897503)<br>[![GitHub Stars](https://img.shields.io/github/stars/FanChiMao/HWMNet?style=social)](https://github.com/FanChiMao/HWMNet)<br>[![GitHub Forks](https://img.shields.io/github/forks/FanChiMao/HWMNet?style=social)](https://github.com/FanChiMao/HWMNet)<br>![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FFanChiMao%2FHWMNet&label=visitors&countColor=%232ccce4&style=plastic)|
+|<strong>📑Paper</strong><br>Image denoising   |                ![ieeebadge](https://img.shields.io/badge/IEEE-EUSIPCO%202022-blue.svg?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC0AAAAtCAYAAAA6GuKaAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAkrSURBVGhDtZgPkFVVHcd/5963hFC2aMq/8s9EaEWZQgxiyCSEKSB/CoyKgZbd94DBSCQtjFZoqgksa1B29+2K8idS+Sd/EkeFsAEmRo0p/9CYU5gyGCWogS27777T53fvWfb92923u6/vzH33nN8999zv+Z3fv/OM/D+QSM4Wa28RK6ulPvGMk5YMpSddVTtOPPMkUzO3bRQTjJTa+Yfd05LAc/fSYNZD5XBNRoQVpqek/XXyzZW9o35pUDrS0x7z5QNN6+F7qZNEMGaI9Dq/XluRoPsoHekLTq2A4ATXy4YxMySeXOx63UZpVp+oW8BUq1zPwVpl6zrABnxtotQmdjtBl9F9TSeSU8SaX7mecj3ANUpiTRchn0kE+Wv0wPiSNo/gqJ+J+l1H90jPTY6C5UY0qPM0074LwrNQ8BJJ9XhTJH29+M1jIL6CK82488XzdkK8fzRB19B186hMfk58+zumKIfovyA1DWl/6Gv0+FA0CFg5gWyOBOkmFsMCzYWMPywpf7SsqfyPG9UpdE3TiZpPQFhjsRI+IkHzSDQ4nvj8myzCCiMXM2YHz0ZL4I1gFS9D/GqJBVuIOD3cqE7Bd/fiUXH/peKXqYYHosUD2Okkifn38WRONMDBytsQ7hV11CHNKFR0CWNnoPWhiMbIeY2DZcI1W+XZZ3Ha4tE5TSdqBkqsTNPyJVy7yXa3MsMjtCfr43Owcgzt3ul6mZgszcE2FoqD2m30b5W3BtbwQqfMtHjS6jzW34OGBuFgj4vXnBDrPYE2r3MjWmHsVmnqsZHWvyNBBowZzv4+LSa9COK/RhKXeL3uVNEojnRFwwBsdi8Er0ArW1HMQkmXPQWBz7oR2TBmk6z9ViNjccqCuJJP74V0NW2yqCwkdN5LuyiNd0x63pqPSVmADeuHZAdbfzv3p1y/EI5L32MHwpaXqmV8KmznwVwuxntGPP8eyD+G4A6yJhrv2FTaHzCnfhBRgq2Uy+jtkUBmu6jx6WhAIdgHpC5BhnSIJzfz/ldcrwDsayxsDLtTR+fLtNfIqfK4bJoeRM/z0bamK+uHSiy93xH+o0gwSzz7ePuEFd5m14hgzP2u1QbUR2Qn81ei8Rf4XoX0eXeLxOtc5MlHYdJVtcRcu48J+9J7ncmmEB0fhsDQaEBboH626XKZ3xBVenOTGpf7cJ0M+20h9A1vLa2pYeQxdhKyfVKxakA0IBvZpKurPVb4PRLBdlb8QT52BpOYzATqMGOjQTmwWhi1gPrZmG2SSt8UdtPyI363Ir8g7LcL4raYu3hJMyslgXxeyno8J4n6vOjUSjped4kcH0AIMz/l5SjpGJlHaLqeVkXYz4L9J5cuBvMx42m/GskV5mx0R/PhTd7it5LrURb5digrBCPzGXs5LyxzAjRNqRCvXRLW6w6eVJNK48lqyL7CdaOTMxaPTpOiPU9DUQ4IZX7zIBxuuSQT/5Dayt2MX8wHT0WPA0fakTfST9LpvxEtqqX/4H4ECGI8+1AInrdafH8D8x1xkjLe+7H0ObU/rHeAoRbewW1i+LgF1jaRta4kCWynl1tKbpS6+DdcG7ttGCLpYB0LvtpJFFMZs43d24C8daxCS9fm2BTC6Gy+vsJJc2AfgtMeGhuivkO00Hs9Vh3ZXzYOiR+oV+fXvlZedq0INr0ph7DK/hs1WswkA8ZcJz1S35FkfCVznXDSHJipRBMCQQ6iEnih/tSGgmx8XAJft+dM1M3CIpxjuGsDTCU3gfjGkZbIpjNh5SgmsIHIcgNR4iInzcUhsWUFkpeefuwPDduFuzXcxn050g9HD4GVb+PJPvaUXxeEJHUL5RfY9F9kPkkoSMfZtXHIBvPsUSLQMXxCI8IVaOhV3tEYTAbsvU+CMzi4XcqznuF8mbBylkUP591f0vtiJFTYv2PwM6Wu6kBrRtQKznpJtu/msG/lNGl4GLx/hmxSKMuHZbFohazpeYdxttcYe1xizY3S2NNQMzfKqT5pufi9vtKc0lg8DuIzee8j0esFYKhrLKFWpCESAK0Iz75fIWtvf0e7uWlcHXMe95+HWrD2JSnzbyTukroL2HebQNPWvMH9KjpjIVJUIQRIMAE76x+k3SvcUWPvJkqtpH8uH+RmRMuA1ZwwvgDh1/nYEOpfaoLgFvqQKBbppTjad1HBlqIJW7tXvNhSyl9KBT08kEV9exN8NMJkHRJySUdoqHpBvECd7SAfncDK7xbfI4ZzFiwGqZhLIOccsn1ozVHmz5R0aisLvQyKnODTI6Sm8P+AhUkrauefkMYyHIn6WbNZYCtwEBytgzpCPfyjb4a2B/KjRz5eJCfoiWY97WEsgLLWjpS6ee6vh3y0TVqhhfzJPtOZ6EE0sBji08jwY+m3nYqteUeWLYuynZH3w3tbsPISJqHFWR07egOSHdL79JeISPknngy0T1qhdW0yXsUXHoDFEiLENEyFD2jtURCZO9E2aWv/TClwMyZRA2GNWGvlZPlUue+ODk2qY9IhjDrobXxpFdr7fmgqxh/Nh4+6Aa0wRZE+hEmM58imx7HxaHy19DtW0V7hn4liQ5EDiShej2aEgseuQ0CCoD4xJixkIuhJxGjiUfRnbOspJgJHtYCq0deDLxUkiqhLLKRd9N8InSQNtOY+PkALJC2EnpSYN4c4HmmsY6xnsT/gHi1UNZyM66I69b9H50kr4nWUi4bqMDzT/YnaawoxVZPSYqbMnzOqzpbzuxmD3MVXCWv2YQijcUyvkyjSpnOQTDSL3zSNDx+GwFXM8gfi6hOUAV+FYFRTt8DKe+FpRMf4Ep05rd1OeudQ0HnCiq6RVqxecJpTzUQIcKbT/+v8p2H4KcxFy1TNakpoP/XLcJz2k4z7Lf1yroOEtRnFOl0hdM08MhGvHcY0v8cqznOS5yC4iOhwVGKpchajoVKPbAqc1F7bURzuCN0nrZhb/3XI6F9cmYCYvZBPtHzjXUmZa+XBqpZjVJfR+X9NC+H5nS/KsAlsvRnhJAqKHkdYHdGT6VIf1+qt2+i6TefCyp1chUkZ+xOpje9yvW6jdKTDiBL7GuyzCypr91G/3ON6JUHpSCtqKt7AS+K0XChjAfpfdDciRSGUxqYz8fyuI3LNBCUfoOUFUp94xT0pEUT+B7A6Mm1XPV5+AAAAAElFTkSuQmCC) [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/selective-residual-m-net-for-real-image/image-denoising-on-sidd)](https://paperswithcode.com/sota/image-denoising-on-sidd?p=selective-residual-m-net-for-real-image)<br>["Selective Residual M-Net for Real Image Denoising"](https://github.com/FanChiMao/SRMNet)                 |[![official_paper](https://img.shields.io/badge/IEEE-Paper-blue)](https://ieeexplore.ieee.org/document/9909521)<br>[![GitHub Stars](https://img.shields.io/github/stars/FanChiMao/SRMNet?style=social)](https://github.com/FanChiMao/SRMNet)<br>[![GitHub Forks](https://img.shields.io/github/forks/FanChiMao/SRMNet?style=social)](https://github.com/FanChiMao/SRMNet)<br>![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FFanChiMao%2FSRMNet&label=visitors&countColor=%232ccce4&style=plastic)|
+|<strong>📑Paper</strong><br>Image denoising   |                                                                                                                                                  ![ieeebadge](https://img.shields.io/badge/IEEE-ISCAS%202021-blue.svg?logo=data:image/png;base64,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)<br>["SUNet: Swin Transformer with UNet for Image Denoising"](https://github.com/FanChiMao/SUNet)                                                                                                                                                   |[![official_paper](https://img.shields.io/badge/IEEE-Paper-blue)](https://ieeexplore.ieee.org/document/9937486)<br>[![GitHub Stars](https://img.shields.io/github/stars/FanChiMao/SUNet?style=social)](https://github.com/FanChiMao/SUNet)<br>[![GitHub Forks](https://img.shields.io/github/forks/FanChiMao/SUNet?style=social)](https://github.com/FanChiMao/SUNet)<br>![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FFanChiMao%2FSUNet&label=visitors&countColor=%232ccce4&style=plastic)|
+|<strong>📑Paper</strong><br>Virtual try-on   |                                                                                                                              ![ieeebadge](https://img.shields.io/badge/IEEE-ICCE%202021-blue.svg?logo=data:image/png;base64,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)<BR>["WBTP-VTON: Whole Body and Texture Preservation based Virtual Try-on Network"](https://github.com/FanChiMao/WBTP-VTON)                                                                                                                               |[![official_paper](https://img.shields.io/badge/IEEE-Paper-blue)](https://ieeexplore.ieee.org/document/9603061)<br>[![GitHub Stars](https://img.shields.io/github/stars/FanChiMao/WBTP-VTON?style=social)](https://github.com/FanChiMao/WBTP-VTON)<br>[![GitHub Forks](https://img.shields.io/github/forks/FanChiMao/WBTP-VTON?style=social)](https://github.com/FanChiMao/WBTP-VTON)<br>![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FFanChiMao%2FWBTP-VTON&label=visitors&countColor=%232ccce4&style=plastic)|   
 
-📺 Latest YouTube Videos
-2024 Ed Sheeran +–=÷× Tour Taiwan #台灣 #高雄 #edsheeran #concert #badhabits
-2023 雙子座流星雨 星軌縮時 #台灣 #雙子座流星雨 #星軌縮時 #擎天崗
-Batu Caves, Kuala Lumpur, Malaysia #drone #travel #dronevideo #malaysia #kualalumpur #batucaves
-Kuala Lumpur, Malaysia #malaysia #kualalumpur #travel #dronevideo #drone #mosque
-[ICIP 2023] Compound Multi-branch Feature Fusion for Image Deraindrop
-📊 Github Stats and Stuff
- 
-📬 Contact Me
 
-mail fb fb u2 twitter linkin reddit
-star watchers
+
+<details>  
+<summary>⭐ Publication Star History </summary>   
+
+[![Star History Chart](https://api.star-history.com/svg?repos=FanChiMao/CMFNet,FanChiMao/SUNet,FanChiMao/HWMNet,FanChiMao/SRMNet&type=Date)](https://star-history.com/#FanChiMao/CMFNet&FanChiMao/SUNet&FanChiMao/HWMNet&FanChiMao/SRMNet&Date)
+</details>
+
+
+## 🏅 Repositories (Competition)  
+|                             Topic                              |                                                                                                          Title                                                                                                           |                                                                                                                                                                                                                                                                                                                                                                                Badge                                                                                                                                                                                                                                                                                                                                                                                |  
+|:--------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|  
+|       <strong>🏆Competition</strong><br>Object tracking        |              ![ranking](https://img.shields.io/badge/🏆Ranked-%232-black)<br>["跨相機多目標車輛追蹤競賽<br>Cross-Camera Multi-Object Tracking Contest"](https://github.com/FanChiMao/Competition-2024-PyTorch-Tracking)              |                                [![official_websute](https://img.shields.io/badge/Official-Website-orange)](https://tbrain.trendmicro.com.tw/Competitions/Details/33)<br>[![GitHub Stars](https://img.shields.io/github/stars/FanChiMao/Competition-2024-PyTorch-Tracking?style=social)](https://github.com/FanChiMao/Competition-2024-PyTorch-Tracking)<br>[![GitHub Forks](https://img.shields.io/github/forks/FanChiMao/Competition-2024-PyTorch-Tracking?style=social)](https://github.com/FanChiMao/Competition-2024-PyTorch-Tracking)<br>![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FFanChiMao%2FCompetition-2024-PyTorch-Tracking&label=visitors&countColor=%232ccce4&style=plastic)                                 |
+|       <strong>🏆Competition</strong><br>Object tracking        |                                              ![ranking](https://img.shields.io/badge/🏆Ranked-top%2025%25-black)<br>["教電腦看羽球<br>Shuttlecock Localization, Pose-Estimation and Single-Object Tracking Contest"](Competition-2023-PyTorch-Badminton)                                              |                          [![official_websute](https://img.shields.io/badge/Official-Website-orange)](https://aidea-web.tw/topic/cbea66cc-a993-4be8-933d-1aa9779001f8)<br>[![GitHub Stars](https://img.shields.io/github/stars/FanChiMao/Competition-2023-PyTorch-Badminton?style=social)](https://github.com/FanChiMao/Competition-2023-PyTorch-Badminton)<br>[![GitHub Forks](https://img.shields.io/github/forks/FanChiMao/Competition-2023-PyTorch-Badminton?style=social)](https://github.com/FanChiMao/Competition-2023-PyTorch-Badminton)<br>![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FFanChiMao%2FCompetition-2023-PyTorch-Badminton&label=visitors&countColor=%232ccce4&style=plastic)                           |
+|     <strong>🏆Competition</strong><br>Music transcription      |                 ![ranking](https://img.shields.io/badge/🏆Ranked-%233-black)<br>["Intel DevCUP 概念組<br>Cyber Audio: Music Transcription"](https://github.com/FanChiMao/Competition-2022-OpenVINO-Devcup)                  |                                              [![official_websute](https://img.shields.io/badge/Official-Website-orange)](https://makerpro.cc/intel-devcup/)<br>[![GitHub Stars](https://img.shields.io/github/stars/FanChiMao/Competition-2022-OpenVINO-Devcup?style=social)](https://github.com/FanChiMao/Competition-2022-OpenVINO-Devcup)<br>[![GitHub Forks](https://img.shields.io/github/forks/FanChiMao/Competition-2022-OpenVINO-Devcup?style=social)](https://github.com/FanChiMao/Competition-2022-OpenVINO-Devcup)<br>![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FFanChiMao%2FCompetition-2022-OpenVINO-Devcup&label=visitors&countColor=%232ccce4&style=plastic)                                               |
+|     <strong>🏆Competition</strong><br>Image classification     |                              ![ranking](https://img.shields.io/badge/🏆Ranked-top%2025%25-black)<br>["尋找花中君子－蘭花種類辨識及分類<br>Orchid Species Identification and Classification Contest"](https://github.com/FanChiMao/Competition-2022-Pytorch-Orchid_Classification)                               |[![official_websute](https://img.shields.io/badge/Official-Website-orange)](https://tbrain.trendmicro.com.tw/Competitions/Details/20)<br>[![GitHub Stars](https://img.shields.io/github/stars/FanChiMao/Competition-2022-Pytorch-Orchid_Classification?style=social)](https://github.com/FanChiMao/Competition-2022-Pytorch-Orchid_Classification)<br>[![GitHub Forks](https://img.shields.io/github/forks/FanChiMao/Competition-2022-Pytorch-Orchid_Classification?style=social)](https://github.com/FanChiMao/Competition-2022-Pytorch-Orchid_Classification)<br>![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FFanChiMao%2FCompetition-2022-Pytorch-Orchid_Classification&label=visitors&countColor=%232ccce4&style=plastic)|  
+|  <strong>🏆Competition</strong><br>Automated program trading   |                                           ![ranking](https://img.shields.io/badge/🏆Ranked-top%2025%25-black)<br>["第四屆高雄盃程式交易競賽<br>The 4th Kaohsiung Cup Trading Competition"](https://github.com/FanChiMao/Competition-2021-Python-StockTransaction)                                           |                 [![official_webste](https://img.shields.io/badge/Official-Website-orange)](https://bhuntr.com/tw/competitions/eqpkavrw0olm1wupbd)<br>[![GitHub Stars](https://img.shields.io/github/stars/FanChiMao/Competition-2021-Python-StockTransaction?style=social)](https://github.com/FanChiMao/Competition-2021-Python-StockTransaction)<br>[![GitHub Forks](https://img.shields.io/github/forks/FanChiMao/Competition-2021-Python-StockTransaction?style=social)](https://github.com/FanChiMao/Competition-2021-Python-StockTransaction)<br>![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FFanChiMao%2FCompetition-2021-Python-StockTransaction&label=visitors&countColor=%232ccce4&style=plastic)                 |  
+| <strong>🏆Competition</strong><br>Data analysis and prediction | ![ranking](https://img.shields.io/badge/🏆Ranked-top%2025%25-black)<br>["全國智慧製造大數據分析競賽<br>Intelligent Manufacturing and Big Data Analystics Contest"](https://github.com/FanChiMao/Competition-2021-Pytorch-Reggression) |                                         [![official_websute](https://img.shields.io/badge/Official-Website-orange)](https://imbd2021.thu.edu.tw/)<br>[![GitHub Stars](https://img.shields.io/github/stars/FanChiMao/Competition-2021-Pytorch-Reggression?style=social)](https://github.com/FanChiMao/Competition-2021-Pytorch-Reggression)<br>[![GitHub Forks](https://img.shields.io/github/forks/FanChiMao/Competition-2021-Pytorch-Reggression?style=social)](https://github.com/FanChiMao/Competition-2021-Pytorch-Reggression)![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FFanChiMao%2FCompetition-2021-Pytorch-Reggression&label=visitors&countColor=%232ccce4&style=plastic)                                         |
+|       <strong>🏆Competition</strong><br>Object detection       |            ![ranking](https://img.shields.io/badge/🏆Ranked-%2311-black)<br>["水稻無人機全彩影像植株位置自動標註與應用<br>Crop Location Auto-Labeling Competition"](https://github.com/FanChiMao/Competition-2021-Pytorch-YOLOv4)            |                                    [![official_websute](https://img.shields.io/badge/Official-Website-orange)](https://aidea-web.tw/topic/9c88c428-0aa7-480b-85e0-2d8fb2fcf3fc)<br>[![GitHub Stars](https://img.shields.io/github/stars/FanChiMao/Competition-2021-Pytorch-YOLOv4?style=social)](https://github.com/FanChiMao/Competition-2021-Pytorch-YOLOv4)<br>[![GitHub Forks](https://img.shields.io/github/forks/FanChiMao/Competition-2021-Pytorch-YOLOv4?style=social)](https://github.com/FanChiMao/Competition-2021-Pytorch-YOLOv4)![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FFanChiMao%2FCompetition-2021-Pytorch-YOLOv4&label=visitors&countColor=%232ccce4&style=plastic)                                    |
+
+
+
+
+## ⌨ Coding Stats and Stuff  
+<div align=center>  
+<img width="max-width" src="https://i.imgur.com/zf0DBPV.jpg" />  
+</div>  
+
+<img src="https://github.com/FanChiMao/FanChiMao/blob/main/images/stat.svg" alt="Avinal WakaTime Activity"/>  
+
+<details>  
+<summary>more detail...</summary>   
+
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C258%20hrs%2030%20mins-blue)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                49 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+🌆 Daytime                722 commits         ██████████░░░░░░░░░░░░░░░   39.80 % 
+🌃 Evening                921 commits         █████████████░░░░░░░░░░░░   50.77 % 
+🌙 Night                  122 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   228 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
+Tuesday                  488 commits         ███████░░░░░░░░░░░░░░░░░░   26.90 % 
+Wednesday                266 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
+Thursday                 286 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
+Friday                   237 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
+Saturday                 139 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
+Sunday                   170 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Python                   37 mins             █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  37 mins             █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   19 repos            █████████████████░░░░░░░░   67.86 % 
+Java                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+```
+
+
+
+
+ Last Updated on 10/09/2024 18:44:55 UTC
+<!--END_SECTION:waka-->
+
+</details>  
+
+## 🏆 Contribution activity  
+![img](https://raw.githubusercontent.com/FanChiMao/FanChiMao/output/github-contribution-grid-snake.svg)  
+
+
+
+## 📺 Latest YouTube Videos  
+  <!-- YOUTUBE:START -->
+- [2024 Ed Sheeran +–=÷× Tour Taiwan #台灣 #高雄 #edsheeran #concert #badhabits](https://www.youtube.com/watch?v=bFOtmKoneX8)
+- [2023 雙子座流星雨 星軌縮時 #台灣 #雙子座流星雨 #星軌縮時 #擎天崗](https://www.youtube.com/watch?v=jaN0gt35YuA)
+- [Batu Caves, Kuala Lumpur, Malaysia #drone #travel #dronevideo #malaysia #kualalumpur #batucaves](https://www.youtube.com/watch?v=tEzes6xWGds)
+- [Kuala Lumpur, Malaysia #malaysia #kualalumpur #travel #dronevideo #drone #mosque](https://www.youtube.com/watch?v=jOrsvL-Tsg0)
+- [[ICIP 2023] Compound Multi-branch Feature Fusion for Image Deraindrop](https://www.youtube.com/watch?v=8UCxeuP2A_Q)
+<!-- YOUTUBE:END -->
+
+
+## 📊 Github Stats and Stuff  
+<div>
+<img src="https://github-readme-stats.vercel.app/api?username=FanChiMao&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />  
+<img height="200em" src="https://media2.giphy.com/media/sIfpwpdOtjm45NrP4Q/giphy.gif?cid=790b7611541ee7426e591227db64e463ed9d640954745a33&rid=giphy.gif&ct=s">
+</div>  
+
+
+## 📬  Contact Me  
+<div align=center>
+<img height="200em" src="https://media3.giphy.com/media/jfW2t8GVKovNriahyw/giphy.gif?cid=790b7611f10fcc55799559d7e4a870e542cdcc0b228e0f93&rid=giphy.gif&ct=s" /><img height="200em" src="https://media3.giphy.com/media/0p9YX5Io6TTyqr6Amc/giphy.gif?cid=790b761109e27f8a3fe54e0e5d101460b07d0d37d3bd518e&rid=giphy.gif&ct=g" />  
+</div>
+<div align=center>
+<a href="mailto:qaz5517359@gmail.com"><img height="25px" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="mail"></a> 
+<a href="https://www.facebook.com/52hzfan/"><img height="25px" src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="fb"></a> 
+<a href="https://www.instagram.com/52hzfan/"><img height="25px" src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="fb"></a> 
+<a href="https://www.youtube.com/@52hzfan"><img height="25px" src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="u2"></a> 
+<a href="https://twitter.com/Fan_R_Mao"><img height="25px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="twitter"></a> 
+<a href="https://www.linkedin.com/in/chimao-fan-432665220/"><img height="25px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="linkin"></a> 
+<a href="https://www.reddit.com/user/52hz--whale"><img height="25px" src="https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white" alt="reddit"></a> 
+<br>
+<img height="25px" src="https://img.shields.io/github/stars/FanChiMao?style=social" alt="star"></a> <img height="25px" src="https://img.shields.io/github/watchers/FanChiMao/FanChiMao?style=social" alt="watchers"></a> 
+
+</div>
+
