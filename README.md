@@ -13,10 +13,10 @@
 - 🧰 R&D Engineer Dept., Digital Image Technology Div., [ASUSTeK Computer](https://www.asus.com/) Inc.
 - 🎓 M.S. degree from [National Chung Hsing University](http://www.ee.nchu.edu.tw), Taiwan  
 - 🌱 I’m major in the Computer Vision especially [image restoration](https://www.researchgate.net/profile/Chi-Mao-Fan/research)  
-- 🎨 Some interesting deep learning restoration demos on my [HuggingFace's space](https://huggingface.co/52Hz)  
+- 🎨 Some interesting ai restoration demos on my [HuggingFace's space](https://huggingface.co/52Hz)  
 - 📘 [LeetCode notes summary](https://hypnotic-kingfisher-3ee.notion.site/LeetCode-fb26f4705745445f8c08293c9e3f3298)  
 - 📚 [Computer version's paper summary](https://www.notion.so/Paper-2909ce6c58164715aae6802117f08402)  
-- 📺 My [YouTube channel](https://www.youtube.com/@52hzfan) including the videos of paper review and my oral presentation  
+- 📺 My [YouTube channel](https://www.youtube.com/@52hzfan)
 - 📑 My [thesis](https://github.com/FanChiMao/SRMNet-thesis) for image restoration
 - 📝 My resume ([English](https://docs.google.com/document/d/1MEseTKjMAqNhq5eezhyQlgMZ0s6d2Z3vgm2GOIpg8SI/edit#heading=h.yi4ugqaoamaf), [Chinese](https://fanchimao.github.io/))
 
@@ -25,7 +25,8 @@
 
 ### 🎵  Recent Music I Heard
 
-[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/light.svg?uid=000885.316b7f19acea4fe6b3c310980b1e28df.0548&t=)]()
+![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/light.svg?uid=000885.316b7f19acea4fe6b3c310980b1e28df.0548&t=)  
+
 
     </td>
   </tr>
