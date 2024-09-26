@@ -142,6 +142,12 @@ C++                      1 repo              █░░░░░░░░░░�
 </div>  
 
 
+## 🎵  Recent Music I heard
+
+[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/light.svg?uid=000885.316b7f19acea4fe6b3c310980b1e28df.0548)](https://github.com/rayriffy/apple-music-github-profile)
+
+ 
+
 ## 📬  Contact Me  
 <div align=center>
 <img height="200em" src="https://media3.giphy.com/media/jfW2t8GVKovNriahyw/giphy.gif?cid=790b7611f10fcc55799559d7e4a870e542cdcc0b228e0f93&rid=giphy.gif&ct=s" /><img height="200em" src="https://media3.giphy.com/media/0p9YX5Io6TTyqr6Amc/giphy.gif?cid=790b761109e27f8a3fe54e0e5d101460b07d0d37d3bd518e&rid=giphy.gif&ct=g" />  
