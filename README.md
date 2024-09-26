@@ -81,7 +81,7 @@ Last Updated on 2024/09/26 18:46:23 UTC+8
 <img src="https://github.com/FanChiMao/FanChiMao/blob/main/images/stat.svg" alt="Avinal WakaTime Activity"/>  
 
 <details>  
-<summary>more detail...</summary>   
+<summary>💁🏻 More Details</summary>   
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C268%20hrs%2045%20mins-blue)
