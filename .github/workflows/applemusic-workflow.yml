@@ -2,7 +2,7 @@ name: Force Apple Music Profile Reload
 
 on:
   schedule:
-    - cron: '*/5 9-18 * * 1-5'  # Runs every 5 minutes from 9:00 AM to 6:55 PM (Monday to Friday)
+    - cron: '*/5 1-11 * * 1-5'  # Runs every 5 minutes from 1:00 AM to 11:55 AM UTC (9:00 AM to 7:00 PM UTC+8, Monday to Friday)
 
 jobs:
   force-commit:
@@ -16,14 +16,17 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
 
-      - name: Pull the latest changes from remote
+      - name: Update README with Last Updated timestamp
+        run: |
+          CURRENT_DATE=$(TZ="Asia/Taipei" date +"%Y/%m/%d %H:%M:%S UTC+8")
+          sed -i "s|Last Updated on.*|Last Updated on ${CURRENT_DATE}|g" README.md
+
+      - name: Pull latest changes and rebase
         run: |
           git pull --rebase origin main
 
-      - name: Create an empty commit to force reload
+      - name: Commit and push changes
         run: |
-          git commit --allow-empty -m "Force reload of Apple Music profile image"
-
-      - name: Push changes back to repository
-        run: |
+          git add README.md
+          git commit --allow-empty -m "Update Last Updated timestamp and force reload"
           git push origin main
