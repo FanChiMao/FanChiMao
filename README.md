@@ -10,9 +10,9 @@
     <td valign="top">
 
 ### 👨🏻‍💻  About Me 
-- 🧰 R&D Engineer Dept., Digital Image Technology Div., [ASUS](https://www.asus.com/) Inc.
+- 🧰 AI R&D Engineer Dept., [ASUSTeK](https://www.asus.com/) Inc.
 - 🎓 M.S. degree from [National Chung Hsing University](http://www.ee.nchu.edu.tw), Taiwan  
-- 🌱 I’m major in the Computer Vision especially [image restoration](https://www.researchgate.net/profile/Chi-Mao-Fan/research)  
+- 🌱 I’m major in the [Computer Vision](https://www.researchgate.net/profile/Chi-Mao-Fan/research)  
 - 🎨 Interesting AI demos on my [HuggingFace's space](https://huggingface.co/52Hz)  
 - 📘 [LeetCode notes summary](https://hypnotic-kingfisher-3ee.notion.site/LeetCode-fb26f4705745445f8c08293c9e3f3298)  
 - 📚 [Computer version's paper summary](https://www.notion.so/Paper-2909ce6c58164715aae6802117f08402)
