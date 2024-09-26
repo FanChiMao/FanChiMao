@@ -10,8 +10,8 @@
     <td valign="top">
 
 ### 👨🏻‍💻  About Me 
-- 🧰 AI R&D Engineer Dept., [ASUSTeK](https://www.asus.com/) Inc.
-- 🎓 M.S. degree from [National Chung Hsing University](http://www.ee.nchu.edu.tw), Taiwan  
+- 🧰 AI R&D Engineer Dept., [ASUSTeK](https://www.asus.com/) Inc.  
+- 🎓 M.S. degree from [National Chung Hsing University](http://www.ee.nchu.edu.tw)  
 - 🌱 I’m major in the [Computer Vision](https://www.researchgate.net/profile/Chi-Mao-Fan/research)  
 - 🎨 Interesting AI demos on my [HuggingFace's space](https://huggingface.co/52Hz)  
 - 📘 [LeetCode notes summary](https://hypnotic-kingfisher-3ee.notion.site/LeetCode-fb26f4705745445f8c08293c9e3f3298)  
