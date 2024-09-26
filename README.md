@@ -33,7 +33,10 @@
 <details>  
 <summary>⭐ Publication Star History </summary>   
 
-[![Star History Chart](https://api.star-history.com/svg?repos=FanChiMao/CMFNet,FanChiMao/SUNet,FanChiMao/HWMNet,FanChiMao/SRMNet&type=Date)](https://star-history.com/#FanChiMao/CMFNet&FanChiMao/SUNet&FanChiMao/HWMNet&FanChiMao/SRMNet&Date)
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=FanChiMao/CMFNet,FanChiMao/SUNet,FanChiMao/HWMNet,FanChiMao/SRMNet,FanChiMao/SRMNet-thesis&type=Date)](https://star-history.com/#FanChiMao/CMFNet&FanChiMao/SUNet&FanChiMao/HWMNet&FanChiMao/SRMNet&FanChiMao/SRMNet-thesis&Date)
+
 </details>
 
 
