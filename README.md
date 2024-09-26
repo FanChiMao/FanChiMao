@@ -27,7 +27,8 @@
 
 ### 🎵  Recent Music I Heard
 
-![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/light.svg?uid=000885.316b7f19acea4fe6b3c310980b1e28df.0548)  
+<img src="https://music-profile.rayriffy.com/theme/light.svg?uid=000885.316b7f19acea4fe6b3c310980b1e28df.0548" width="400" height="auto" />
+
 
 Last Updated on 2024/09/26 18:46:23 UTC+8
 
