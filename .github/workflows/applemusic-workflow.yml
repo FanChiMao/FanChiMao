@@ -11,9 +11,19 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
-      - name: Create an empty commit
+      - name: Set up Git
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+
+      - name: Pull the latest changes from remote
+        run: |
+          git pull origin main
+
+      - name: Create an empty commit to force reload
+        run: |
           git commit --allow-empty -m "Force reload of Apple Music profile image"
-          git push
+
+      - name: Push changes back to repository
+        run: |
+          git push origin main
