@@ -13,7 +13,7 @@
 - 🧰 R&D Engineer Dept., Digital Image Technology Div., [ASUS](https://www.asus.com/) Inc.
 - 🎓 M.S. degree from [National Chung Hsing University](http://www.ee.nchu.edu.tw), Taiwan  
 - 🌱 I’m major in the Computer Vision especially [image restoration](https://www.researchgate.net/profile/Chi-Mao-Fan/research)  
-- 🎨 Some interesting ai restoration demos on my [HuggingFace's space](https://huggingface.co/52Hz)  
+- 🎨 Interesting AI demos on my [HuggingFace's space](https://huggingface.co/52Hz)  
 - 📘 [LeetCode notes summary](https://hypnotic-kingfisher-3ee.notion.site/LeetCode-fb26f4705745445f8c08293c9e3f3298)  
 - 📚 [Computer version's paper summary](https://www.notion.so/Paper-2909ce6c58164715aae6802117f08402)
 - ✍🏻 My [reading notes](https://52hzfan.notion.site/Library-4f2b7ca1c9f84a2a8bbfd91d2eb2e2b5?pvs=74)  
