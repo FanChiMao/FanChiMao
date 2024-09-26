@@ -27,7 +27,7 @@
 
 ### 🎵  Recent Music I Heard
 
-<img src="https://music-profile.rayriffy.com/theme/light.svg?uid=000885.316b7f19acea4fe6b3c310980b1e28df.0548" width="250" height="auto" />
+<img src="https://music-profile.rayriffy.com/theme/light.svg?uid=000885.316b7f19acea4fe6b3c310980b1e28df.0548" width="250" height="auto" style="display: block; margin-left: auto; margin-right: auto;" />
 
 
 Last Updated on 2024/09/26 18:46:23 UTC+8
