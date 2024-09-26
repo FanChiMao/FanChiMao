@@ -5,7 +5,11 @@
 <a href="https://52hzfan.com" target="_blank"><img src="https://github.com/FanChiMao/FanChiMao/blob/main/images/result.gif" /><a/>  
 </div>
 
-## 👨🏻‍💻  About Me 
+<table>
+  <tr>
+    <td valign="top">
+
+### 👨🏻‍💻  About Me 
 - 🧰 R&D Engineer Dept., Digital Image Technology Div., [ASUSTeK Computer](https://www.asus.com/) Inc.
 - 🎓 M.S. degree from [National Chung Hsing University](http://www.ee.nchu.edu.tw), Taiwan  
 - 🌱 I’m major in the Computer Vision especially [image restoration](https://www.researchgate.net/profile/Chi-Mao-Fan/research)  
@@ -14,8 +18,18 @@
 - 📚 [Computer version's paper summary](https://www.notion.so/Paper-2909ce6c58164715aae6802117f08402)  
 - 📺 My [YouTube channel](https://www.youtube.com/@52hzfan) including the videos of paper review and my oral presentation  
 - 📑 My [thesis](https://github.com/FanChiMao/SRMNet-thesis) for image restoration
-- 📝 My resume ([English](https://docs.google.com/document/d/1MEseTKjMAqNhq5eezhyQlgMZ0s6d2Z3vgm2GOIpg8SI/edit#heading=h.yi4ugqaoamaf), [Chinese](https://fanchimao.github.io/))  
+- 📝 My resume ([English](https://docs.google.com/document/d/1MEseTKjMAqNhq5eezhyQlgMZ0s6d2Z3vgm2GOIpg8SI/edit#heading=h.yi4ugqaoamaf), [Chinese](https://fanchimao.github.io/))
 
+    </td>
+    <td valign="top">
+
+### 🎵  Recent Music I Heard
+
+[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/light.svg?uid=000885.316b7f19acea4fe6b3c310980b1e28df.0548&t=)]()
+
+    </td>
+  </tr>
+</table>
 
 ## 📃 Repositories (Publication)  
 
@@ -140,11 +154,6 @@ C++                      1 repo              █░░░░░░░░░░�
 <img src="https://github-readme-stats.vercel.app/api?username=FanChiMao&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />  
 <img height="200em" src="https://media2.giphy.com/media/sIfpwpdOtjm45NrP4Q/giphy.gif?cid=790b7611541ee7426e591227db64e463ed9d640954745a33&rid=giphy.gif&ct=s">
 </div>  
-
-
-## 🎵  Recent Music I heard
-
-[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/light.svg?uid=000885.316b7f19acea4fe6b3c310980b1e28df.0548&t=)]()
 
 
 ## 📬  Contact Me  
