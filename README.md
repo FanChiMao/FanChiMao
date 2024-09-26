@@ -20,12 +20,17 @@
 - 📑 My [thesis](https://github.com/FanChiMao/SRMNet-thesis) for image restoration
 - 📝 My resume ([English](https://docs.google.com/document/d/1MEseTKjMAqNhq5eezhyQlgMZ0s6d2Z3vgm2GOIpg8SI/edit#heading=h.yi4ugqaoamaf), [Chinese](https://fanchimao.github.io/))
 
+
     </td>
+    
     <td valign="top">
+
 
 ### 🎵  Recent Music I Heard
 
+
 [![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/light.svg?uid=000885.316b7f19acea4fe6b3c310980b1e28df.0548&t=)]()
+
 
     </td>
   </tr>
