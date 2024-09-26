@@ -1,0 +1,19 @@
+name: Force Apple Music Profile Reload
+
+on:
+  schedule:
+    - cron: '*/5 9-18 * * 1-5'  # Runs every 5 minutes from 9:00 AM to 6:55 PM (Monday to Friday)
+
+jobs:
+  force-commit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Create an empty commit
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git commit --allow-empty -m "Force reload of Apple Music profile image"
+          git push
