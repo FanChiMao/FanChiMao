@@ -10,7 +10,7 @@
     <td valign="top">
 
 ### 👨🏻‍💻  About Me 
-- 🧰 R&D Engineer Dept., Digital Image Technology Div., [ASUSTeK Computer](https://www.asus.com/) Inc.
+- 🧰 R&D Engineer Dept., Digital Image Technology Div., [ASUS](https://www.asus.com/) Inc.
 - 🎓 M.S. degree from [National Chung Hsing University](http://www.ee.nchu.edu.tw), Taiwan  
 - 🌱 I’m major in the Computer Vision especially [image restoration](https://www.researchgate.net/profile/Chi-Mao-Fan/research)  
 - 🎨 Some interesting ai restoration demos on my [HuggingFace's space](https://huggingface.co/52Hz)  
@@ -21,6 +21,7 @@
 - 📝 My resume ([English](https://docs.google.com/document/d/1MEseTKjMAqNhq5eezhyQlgMZ0s6d2Z3vgm2GOIpg8SI/edit#heading=h.yi4ugqaoamaf), [Chinese](https://fanchimao.github.io/))
 
     </td>
+    
     <td valign="top">
 
 ### 🎵  Recent Music I Heard
@@ -29,7 +30,8 @@
 
 
     </td>
-  </tr>
+    
+  
 </table>
 
 
