@@ -1,0 +1,27 @@
+name: Update Apple Music Profile Image
+
+on:
+  schedule:
+    - cron: '*/10 * * * *'  # Runs every 10 minutes
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Update README with timestamp
+        run: |
+          # Extract current timestamp
+          TIMESTAMP=$(date +%s)
+          # Replace the Apple Music image URL with the updated one including the timestamp
+          sed -i "s|https://music-profile.rayriffy.com/theme/light.svg?uid=000885.316b7f19acea4fe6b3c310980b1e28df.0548.*|https://music-profile.rayriffy.com/theme/light.svg?uid=000885.316b7f19acea4fe6b3c310980b1e28df.0548&t=${TIMESTAMP}|g" README.md
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git commit -m "Update Apple Music Profile Image with new timestamp"
+          git push
