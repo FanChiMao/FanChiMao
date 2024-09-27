@@ -31,7 +31,7 @@
   <img src="images/applemusic.svg" alt="Apple Music" width="300" height="auto" />
 </div>
       
-      Last Updated: 2024/09/27 11:57:47 (UTC+8)  
+Last Updated: 2024/09/27 11:57:47 (UTC+8)  
 
 </table>
 
