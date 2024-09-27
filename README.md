@@ -32,7 +32,7 @@
 </div>
 <div align='center' valign="middle">  
   
-Last Updated: 2024/09/27 11:57:47 (UTC+8)  
+Updated Time: 2024/09/27 11:57:47 (UTC+8)  
 
 </div>
 </table>
