@@ -23,7 +23,7 @@
 
     </td>
   
-    <td valign="top" width="450">
+    <td valign="top" width="450" style="text-align: center;">
 
 ### 🎵  Recent Music I Heard
 
