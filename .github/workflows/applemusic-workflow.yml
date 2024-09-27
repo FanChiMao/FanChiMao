@@ -3,7 +3,7 @@ name: Update Apple Music Profile
 on:
   workflow_dispatch:  # This allows manual triggers
   schedule:
-    - cron: '*/20 * * * 1-5'  
+    - cron: '*/10 1-11 * * 1-5'
 
 jobs:
   update-apple-music-image:
