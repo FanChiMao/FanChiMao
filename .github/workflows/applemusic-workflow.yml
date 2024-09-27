@@ -9,7 +9,7 @@ jobs:
   force-commit:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
+       - name: Checkout repository
         uses: actions/checkout@v2
 
       - name: Set up Git
@@ -17,14 +17,22 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
 
+      - name: Stash any changes
+        run: |
+          git stash
+
+      - name: Pull the latest changes from remote with rebase
+        run: |
+          git pull --rebase origin main
+
+      - name: Apply stashed changes
+        run: |
+          git stash pop || echo "No changes to apply"
+
       - name: Update README with Last Updated timestamp
         run: |
           CURRENT_DATE=$(TZ="Asia/Taipei" date +"%Y/%m/%d %H:%M:%S UTC+8")
           sed -i "s|Last Updated on.*|Last Updated on ${CURRENT_DATE}|g" README.md
-
-      - name: Pull latest changes and rebase
-        run: |
-          git pull --rebase origin main
 
       - name: Commit and push changes
         run: |
