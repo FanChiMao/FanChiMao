@@ -7,7 +7,7 @@
 
 <table>
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="350">
 
 ### 👨🏻‍💻  About Me 
 - 🧰 AI R&D Engineer Dept., [ASUSTeK](https://www.asus.com/) Inc.  
@@ -23,14 +23,13 @@
 
     </td>
   
-    <td valign="top" width="50%">
+    <td valign="top" width="350">
 
 ### 🎵  Recent Music I Heard
 
+<img src="images/applemusic.svg" alt="Apple Music" width="300" height="auto"/>
+
 Last Updated: 2024/09/27 11:57:47 (UTC+8)  
-
-<img src="images/applemusic.svg" alt="Apple Music" width="350" height="auto"/>
-
 
 </table>
 
