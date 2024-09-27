@@ -27,7 +27,7 @@
 
 ### 🎵  Recent Music I Heard
 
-![Apple Music](./images/applemusic.svg)
+<img src="images/applemusic.svg" alt="Apple Music" width="300" height="auto" />
 
 Last Updated on 2024/09/27 10:43:14 UTC+8
 
