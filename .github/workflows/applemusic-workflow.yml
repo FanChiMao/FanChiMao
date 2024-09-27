@@ -20,7 +20,7 @@ jobs:
       - name: Download latest Apple Music image
         run: |
           mkdir -p images
-          curl -L https://music-profile.rayriffy.com/theme/light.svg?uid=000885.316b7f19acea4fe6b3c310980b1e28df.0548 -o images/applemusic.png
+          curl -L https://music-profile.rayriffy.com/theme/light.svg?uid=000885.316b7f19acea4fe6b3c310980b1e28df.0548 -o images/applemusic.svg
 
       - name: Stash any changes
         run: |
