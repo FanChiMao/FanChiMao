@@ -36,8 +36,8 @@ jobs:
 
       - name: Update README with Last Updated timestamp
         run: |
-          CURRENT_DATE=$(TZ="Asia/Taipei" date +"%Y/%m/%d %H:%M:%S UTC+8")
-          sed -i "s|Last Updated on.*|Last Updated on ${CURRENT_DATE}|g" README.md
+          CURRENT_DATE=$(TZ="Asia/Taipei" date +"%Y/%m/%d %H:%M:%S")
+          sed -i "/Last Updated:/!b;n;c\\${CURRENT_DATE} (UTC+8)" README.md
 
       - name: Commit and push changes
         run: |
