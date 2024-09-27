@@ -27,10 +27,11 @@
 
 ### 🎵  Recent Music I Heard
 
-<img src="images/applemusic.svg" alt="Apple Music" width="250" height="auto" />
-
 Last Updated:  
-2024/09/27 11:57:47 (UTC+8)
+2024/09/27 11:57:47 (UTC+8)  
+
+<img src="images/applemusic.svg" alt="Apple Music" width="280" height="auto" />
+
 
 </table>
 
