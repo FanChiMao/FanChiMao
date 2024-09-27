@@ -19,8 +19,8 @@ jobs:
 
       - name: Download latest Apple Music image
         run: |
-          mkdir -p image
-          curl -L https://music-profile.rayriffy.com/theme/light.svg?uid=000885.316b7f19acea4fe6b3c310980b1e28df.0548 -o image/applemusic.png
+          mkdir -p images
+          curl -L https://music-profile.rayriffy.com/theme/light.svg?uid=000885.316b7f19acea4fe6b3c310980b1e28df.0548 -o images/applemusic.png
 
       - name: Stash any changes
         run: |
@@ -41,7 +41,7 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git add image/applemusic.png
+          git add images/applemusic.png
           git add README.md
           git commit --allow-empty -m "Update Last Updated timestamp and Apple Music image"
           git push origin main
