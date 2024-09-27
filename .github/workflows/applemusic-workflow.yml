@@ -41,7 +41,7 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git add images/applemusic.png
+          git add images/applemusic.svg
           git add README.md
           git commit --allow-empty -m "Update Apple Music image 🎵"
           git push origin main
