@@ -1,4 +1,4 @@
-name: Force Apple Music Profile Reload
+name: Update Apple Music Profile
 
 on:
   workflow_dispatch:  # This allows manual triggers
@@ -17,10 +17,17 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
 
-      - name: Download latest Apple Music image
+      - name: Install ImageMagick
+        run: sudo apt-get update && sudo apt-get install -y imagemagick
+
+      - name: Download latest Apple Music SVG
         run: |
           mkdir -p images
-          curl -L https://music-profile.rayriffy.com/theme/light.svg?uid=000885.316b7f19acea4fe6b3c310980b1e28df.0548 -o images/applemusic.png
+          curl -L https://music-profile.rayriffy.com/theme/light.svg?uid=000885.316b7f19acea4fe6b3c310980b1e28df.0548 -o images/applemusic.svg
+
+      - name: Convert SVG to PNG
+        run: |
+          convert images/applemusic.svg images/applemusic.png
 
       - name: Stash any changes
         run: |
@@ -43,5 +50,5 @@ jobs:
         run: |
           git add images/applemusic.png
           git add README.md
-          git commit --allow-empty -m "Update Last Updated timestamp and Apple Music image"
+          git commit --allow-empty -m "Update Apple Music image 🎵"
           git push origin main
