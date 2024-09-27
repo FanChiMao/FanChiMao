@@ -7,7 +7,7 @@
 
 <table>
   <tr>
-    <td valign="top" width="350">
+    <td valign="top" width="400">
 
 ### 👨🏻‍💻  About Me 
 - 🧰 AI R&D Engineer Dept., [ASUSTeK](https://www.asus.com/) Inc.  
@@ -23,7 +23,7 @@
 
     </td>
   
-    <td valign="top" width="350">
+    <td valign="top" width="400">
 
 ### 🎵  Recent Music I Heard
 
