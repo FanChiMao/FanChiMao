@@ -10,7 +10,7 @@
     <td valign="top" width="450">
 
 ### 👨🏻‍💻  About Me 
-- 🧰 AI R&D Engineer Dept., [**ASUSTeK**](https://www.asus.com/) Inc.  
+- 🧰 AI R&D Engineer Dept., DIT Div., [**ASUSTeK**](https://www.asus.com/) Inc.  
 - 🎓 M.S. degree from [**National Chung Hsing University**](http://www.ee.nchu.edu.tw)  
 - 🌱 I’m major in the [**computer vision**](https://www.researchgate.net/profile/Chi-Mao-Fan/research)  
 - 🎨 Interesting AI demos on my [**huggingface's space**](https://huggingface.co/52Hz)  
