@@ -17,17 +17,10 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
 
-      - name: Install rsvg-convert
-        run: sudo apt-get update && sudo apt-get install -y librsvg2-bin
-
-      - name: Download latest Apple Music SVG
+      - name: Download latest Apple Music image
         run: |
           mkdir -p images
-          curl -L https://music-profile.rayriffy.com/theme/light.svg?uid=000885.316b7f19acea4fe6b3c310980b1e28df.0548 -o images/applemusic.svg
-
-      - name: Convert SVG to PNG using rsvg-convert
-        run: |
-          rsvg-convert -o images/applemusic.png images/applemusic.svg
+          curl -L https://music-profile.rayriffy.com/theme/light.svg?uid=000885.316b7f19acea4fe6b3c310980b1e28df.0548 -o images/applemusic.png
 
       - name: Stash any changes
         run: |
