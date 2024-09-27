@@ -1,15 +1,15 @@
 name: Force Apple Music Profile Reload
 
 on:
+  workflow_dispatch:  # This allows manual triggers
   schedule:
     - cron: '*/5 1-11 * * 1-5'  # Runs every 5 minutes from 1:00 AM to 11:55 AM UTC (9:00 AM to 7:00 PM UTC+8, Monday to Friday)
-  workflow_dispatch:
 
 jobs:
   force-commit:
     runs-on: ubuntu-latest
     steps:
-       - name: Checkout repository
+      - name: Checkout repository
         uses: actions/checkout@v2
 
       - name: Set up Git
