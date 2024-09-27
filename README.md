@@ -20,7 +20,7 @@
 - 📺 My [**YouTube channel**](https://www.youtube.com/@52hzfan)
 - 📑 My [**thesis**](https://github.com/FanChiMao/SRMNet-thesis) for image restoration (IEEE Taipei Section 2022 Best Dissertation Awards)
 - 🌏 My personal website ([**https://52hzfan**](https://52hzfan.com))
-- 📝 My resume ([**English ver.**](https://docs.google.com/document/d/1MEseTKjMAqNhq5eezhyQlgMZ0s6d2Z3vgm2GOIpg8SI/edit#heading=h.yi4ugqaoamaf), [**Chinese ver.**](https://52hzfan.com))
+- 📝 My [**resume**](https://docs.google.com/document/d/1MEseTKjMAqNhq5eezhyQlgMZ0s6d2Z3vgm2GOIpg8SI/edit#heading=h.yi4ugqaoamaf)  
 
     </td>
   
