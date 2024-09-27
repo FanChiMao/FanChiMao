@@ -18,7 +18,7 @@
 - 📚 My [**paper summary notes**](https://www.notion.so/Paper-2909ce6c58164715aae6802117f08402)
 - ✍🏻 My [**reading notes**](https://52hzfan.notion.site/Library-4f2b7ca1c9f84a2a8bbfd91d2eb2e2b5?pvs=74)  
 - 📺 My [**YouTube channel**](https://www.youtube.com/@52hzfan)
-- 📑 My [**thesis**](https://github.com/FanChiMao/SRMNet-thesis) for image restoration (IEEE Taipei Section 2022 Best Dissertation Awards)
+- 📑 My [**thesis**](https://github.com/FanChiMao/SRMNet-thesis) for image restoration (IEEE 2022 Best Dissertation Awards)
 - 🌏 My personal website ([**https://52hzfan**](https://52hzfan.com))
 - 📝 My [**resume**](https://docs.google.com/document/d/1MEseTKjMAqNhq5eezhyQlgMZ0s6d2Z3vgm2GOIpg8SI/edit#heading=h.yi4ugqaoamaf)  
 
