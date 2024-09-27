@@ -6,7 +6,7 @@ on:
     - cron: '*/5 1-11 * * 1-5'  # Runs every 5 minutes from 1:00 AM to 11:55 AM UTC (9:00 AM to 7:00 PM UTC+8, Monday to Friday)
 
 jobs:
-  force-commit:
+  update-apple-music-image:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
@@ -16,6 +16,11 @@ jobs:
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+
+      - name: Download latest Apple Music image
+        run: |
+          mkdir -p image
+          curl -L https://music-profile.rayriffy.com/theme/light.svg?uid=000885.316b7f19acea4fe6b3c310980b1e28df.0548 -o image/applemusic.png
 
       - name: Stash any changes
         run: |
@@ -36,6 +41,7 @@ jobs:
 
       - name: Commit and push changes
         run: |
+          git add image/applemusic.png
           git add README.md
-          git commit --allow-empty -m "Update Last Updated timestamp and force reload"
+          git commit --allow-empty -m "Update Last Updated timestamp and Apple Music image"
           git push origin main
