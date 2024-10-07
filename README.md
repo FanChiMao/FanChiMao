@@ -57,8 +57,6 @@ Updated Time: 2024/10/07 15:59:22 UTC+8
 <details>  
 <summary>⭐ Publication Star History </summary>   
 
-## Star History
-
 [![Star History Chart](https://api.star-history.com/svg?repos=FanChiMao/CMFNet,FanChiMao/SUNet,FanChiMao/HWMNet,FanChiMao/SRMNet,FanChiMao/SRMNet-thesis&type=Date)](https://star-history.com/#FanChiMao/CMFNet&FanChiMao/SUNet&FanChiMao/HWMNet&FanChiMao/SRMNet&FanChiMao/SRMNet-thesis&Date)
 
 </details>
