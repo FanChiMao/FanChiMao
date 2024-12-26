@@ -29,11 +29,11 @@
 ### 🎵  Recent Music I Heard
 
 <div align='center' valign="middle">
-  <img src="images/applemusic.svg?timestamp=1735187278" alt="Apple Music" width="300" height="auto" />
+  <img src="images/applemusic.svg?timestamp=1735188223" alt="Apple Music" width="300" height="auto" />
 </div>
 <div align='center' valign="middle">  
   
-Updated Time: 2024/12/26 12:27:58 UTC+8
+Updated Time: 2024/12/26 12:43:43 UTC+8
 
 </div>
 </table>
