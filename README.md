@@ -87,7 +87,7 @@ Updated Time: 2025/02/04 19:58:50 UTC+8
 <summary>💁🏻 More Details</summary>   
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C454%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C454%20hrs%2042%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -114,10 +114,14 @@ Sunday                   170 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   28 mins             █████████████████████████   98.45 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+textmate                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  28 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -133,7 +137,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/02/2025 18:40:55 UTC
+ Last Updated on 04/02/2025 18:42:34 UTC
 <!--END_SECTION:waka-->
 
 </details>  
