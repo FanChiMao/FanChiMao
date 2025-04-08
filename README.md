@@ -114,10 +114,10 @@ Sunday                   170 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   29 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  29 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -133,7 +133,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/04/2025 18:44:02 UTC
+ Last Updated on 08/04/2025 18:46:25 UTC
 <!--END_SECTION:waka-->
 
 </details>  
