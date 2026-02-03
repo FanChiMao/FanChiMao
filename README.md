@@ -87,6 +87,8 @@ Updated Time: 2026/02/03 20:24:17 UTC+8
 <summary>💁🏻 More Details</summary>   
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C802%20hrs%2037%20mins-blue?style=flat)
+
 **I Mostly Code in Python** 
 
 ```text
@@ -100,7 +102,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/02/2026 18:59:10 UTC
+ Last Updated on 03/02/2026 19:25:12 UTC
 <!--END_SECTION:waka-->
 
 </details>  
