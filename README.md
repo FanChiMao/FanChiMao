@@ -87,57 +87,22 @@ Updated Time: 2026/04/22 20:10:26 UTC+8
 <summary>💁🏻 More Details</summary>   
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C992%20hrs%2057%20mins-blue?style=flat)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                87 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
-🌆 Daytime                794 commits         ██████████░░░░░░░░░░░░░░░   39.98 % 
-🌃 Evening                960 commits         ████████████░░░░░░░░░░░░░   48.34 % 
-🌙 Night                  145 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   249 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
-Tuesday                  506 commits         ██████░░░░░░░░░░░░░░░░░░░   25.48 % 
-Wednesday                286 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
-Thursday                 332 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
-Friday                   300 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
-Saturday                 141 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
-Sunday                   172 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Python                   7 hrs 36 mins       ██████████░░░░░░░░░░░░░░░   41.12 % 
-TypeScript               3 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   19.36 % 
-JSON                     2 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
-Other                    1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
-HTML                     1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
-
-💻 Operating System: 
-Windows                  18 hrs 29 mins      █████████████████████████   100.00 % 
-```
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C995%20hrs%2015%20mins-blue?style=flat)
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   21 repos            ██████████████████░░░░░░░   70.00 % 
-Java                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
-C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+Python                   21 repos            █████████████████░░░░░░░░   67.74 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
 ```
 
 
 
 
- Last Updated on 21/04/2026 19:43:55 UTC
+ Last Updated on 22/04/2026 19:46:13 UTC
 <!--END_SECTION:waka-->
 
 </details>  
