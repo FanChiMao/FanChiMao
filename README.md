@@ -87,8 +87,6 @@ Updated Time: 2026/06/05 20:09:53 UTC+8
 <summary>💁🏻 More Details</summary>   
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C132%20hrs%201%20min-blue?style=flat)
-
 **I'm a Night 🦉** 
 
 ```text
@@ -137,7 +135,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/06/2026 19:52:24 UTC
+ Last Updated on 07/06/2026 19:53:37 UTC
 <!--END_SECTION:waka-->
 
 </details>  
