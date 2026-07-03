@@ -157,13 +157,6 @@ C++                      1 repo              █░░░░░░░░░░�
 <!-- YOUTUBE:END -->
 
 
-## 📊 Github Stats and Stuff  
-<div>
-<img src="https://github-readme-stats.vercel.app/api?username=FanChiMao&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />  
-<img height="200em" src="https://media2.giphy.com/media/sIfpwpdOtjm45NrP4Q/giphy.gif?cid=790b7611541ee7426e591227db64e463ed9d640954745a33&rid=giphy.gif&ct=s">
-</div>  
-
-
 ## 📬  Contact Me  
 
 <div align=center>
