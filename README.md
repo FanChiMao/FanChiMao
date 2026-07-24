@@ -87,41 +87,6 @@ Updated Time: 2026/07/24 20:48:40 UTC+8
 <summary>💁🏻 More Details</summary>   
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                101 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
-🌆 Daytime                823 commits         ██████████░░░░░░░░░░░░░░░   40.46 % 
-🌃 Evening                965 commits         ████████████░░░░░░░░░░░░░   47.44 % 
-🌙 Night                  145 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   253 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
-Tuesday                  509 commits         ██████░░░░░░░░░░░░░░░░░░░   25.02 % 
-Wednesday                293 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
-Thursday                 341 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
-Friday                   325 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
-Saturday                 141 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
-Sunday                   172 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Markdown                 3 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   20.48 % 
-Python                   2 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
-TypeScript               2 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
-YAML                     2 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
-Vue                      1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
-
-💻 Operating System: 
-Windows                  14 hrs 58 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -135,7 +100,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/07/2026 19:54:12 UTC
+ Last Updated on 24/07/2026 19:54:15 UTC
 <!--END_SECTION:waka-->
 
 </details>  
