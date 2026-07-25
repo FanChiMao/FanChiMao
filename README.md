@@ -87,6 +87,43 @@ Updated Time: 2026/07/24 20:48:40 UTC+8
 <summary>💁🏻 More Details</summary>   
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C256%20hrs%2051%20mins-blue?style=flat)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                101 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
+🌆 Daytime                823 commits         ██████████░░░░░░░░░░░░░░░   40.46 % 
+🌃 Evening                965 commits         ████████████░░░░░░░░░░░░░   47.44 % 
+🌙 Night                  145 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   253 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
+Tuesday                  509 commits         ██████░░░░░░░░░░░░░░░░░░░   25.02 % 
+Wednesday                293 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
+Thursday                 341 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
+Friday                   325 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
+Saturday                 141 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
+Sunday                   172 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TypeScript               2 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   21.33 % 
+YAML                     2 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
+Vue                      1 hr 51 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
+JSON                     1 hr 36 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
+Bash                     1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
+
+💻 Operating System: 
+Windows                  13 hrs 32 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -100,7 +137,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 19:54:15 UTC
+ Last Updated on 25/07/2026 19:41:47 UTC
 <!--END_SECTION:waka-->
 
 </details>  
