@@ -87,10 +87,6 @@ Updated Time: 2026/07/28 21:17:25 UTC+8
 <summary>💁🏻 More Details</summary>   
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C317%20hrs%2043%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-127%20hrs%2029%20mins-blue?style=flat)
-
 **I'm a Night 🦉** 
 
 ```text
@@ -116,37 +112,37 @@ Sunday                   172 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Vue                      3 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   22.89 % 
-TypeScript               3 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   22.78 % 
-JSON                     2 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
-Bash                     1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
-YAML                     1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
+Vue                      5 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   27.28 % 
+TypeScript               4 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   21.89 % 
+JSON                     2 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
+Bash                     2 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
+Python                   1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
 
 💻 Operating System: 
-Windows                  15 hrs 14 mins      █████████████████████████   100.00 % 
+Windows                  18 hrs 30 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 17 mins (41.24%)
+⏱ AI Coding Time: 8 hrs 44 mins (47.26%)
 
-✍️ 4,783 lines written by AI, 636 lines written by hand (88.26% AI-written)
+✍️ 6,370 lines written by AI, 654 lines written by hand (90.69% AI-written)
 
-🔤 75,624,980 Input Tokens, 275,494 Output Tokens
+🔤 96,410,769 Input Tokens, 358,201 Output Tokens
 
-💵 $382.71 Estimated AI Cost This Week
+💵 $489.12 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 62 AI Prompts
+🧠 12 AI Sessions, 75 AI Prompts
 
-GPT                      4,968 lines         ████████████████████████░   95.67 % 
-Sonnet                   225 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
+GPT                      6,555 lines         ████████████████████████░   96.68 % 
+Sonnet                   225 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 88.26% of written lines came from AI
-📄 Detailed Prompter — average 852 characters per prompt
+🤖 AI-Driven — 90.69% of written lines came from AI
+📄 Detailed Prompter — average 757 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 13.75% of changed lines were hand-edited
+🚀 High AI Trust — 11.83% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -162,7 +158,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/07/2026 20:02:55 UTC
+ Last Updated on 28/07/2026 19:59:17 UTC
 <!--END_SECTION:waka-->
 
 </details>  
