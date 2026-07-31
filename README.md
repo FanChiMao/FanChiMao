@@ -87,9 +87,67 @@ Updated Time: 2026/07/31 20:14:04 UTC+8
 <summary>💁🏻 More Details</summary>   
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C329%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C332%20hrs%206%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-136%20hrs%2014%20mins-blue?style=flat)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                101 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
+🌆 Daytime                823 commits         ██████████░░░░░░░░░░░░░░░   40.46 % 
+🌃 Evening                965 commits         ████████████░░░░░░░░░░░░░   47.44 % 
+🌙 Night                  145 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   253 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
+Tuesday                  509 commits         ██████░░░░░░░░░░░░░░░░░░░   25.02 % 
+Wednesday                293 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
+Thursday                 341 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
+Friday                   325 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
+Saturday                 141 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
+Sunday                   172 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Vue                      6 hrs 29 mins       █████████░░░░░░░░░░░░░░░░   36.31 % 
+JSON                     2 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
+TypeScript               2 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
+Bash                     1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
+Python                   1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
+
+💻 Operating System: 
+Windows                  17 hrs 53 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 9 hrs 16 mins (51.82%)
+
+✍️ 4,495 lines written by AI, 807 lines written by hand (84.78% AI-written)
+
+🔤 96,405,978 Input Tokens, 450,648 Output Tokens
+
+💵 $491.87 Estimated AI Cost This Week
+
+🧠 12 AI Sessions, 67 AI Prompts
+
+GPT                      4,315 lines         ████████████████████████░   95.04 % 
+Sonnet                   225 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 84.78% of written lines came from AI
+📝 Concise Prompter — average 446 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 20.66% of changed lines were hand-edited
+```
 
 **I Mostly Code in Python** 
 
@@ -104,7 +162,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/07/2026 20:00:06 UTC
+ Last Updated on 31/07/2026 20:00:59 UTC
 <!--END_SECTION:waka-->
 
 </details>  
