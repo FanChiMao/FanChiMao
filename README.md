@@ -116,38 +116,38 @@ Sunday                   172 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 27 mins       ████████░░░░░░░░░░░░░░░░░   31.32 % 
-Other                    1 hr 31 mins        █████░░░░░░░░░░░░░░░░░░░░   19.55 % 
-TypeScript               1 hr 18 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
-Vue                      51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
-JSON                     39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
+Python                   2 hrs 27 mins       █████████░░░░░░░░░░░░░░░░   36.75 % 
+TypeScript               1 hr 17 mins        █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
+Other                    1 hr 17 mins        █████░░░░░░░░░░░░░░░░░░░░   19.34 % 
+JSON                     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
+YAML                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
 
 💻 Operating System: 
-Windows                  7 hrs 50 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 33 mins (83.81%)
+⏱ AI Coding Time: 5 hrs 40 mins (85.05%)
 
-✍️ 3,566 lines written by AI, 29 lines written by hand (99.19% AI-written)
+✍️ 3,566 lines written by AI, 10 lines written by hand (99.72% AI-written)
 
-🔤 1,885,430 Input Tokens, 274,056 Output Tokens
+🔤 1,566,018 Input Tokens, 242,382 Output Tokens
 
-💵 $45.98 Estimated AI Cost This Week
+💵 $41.57 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 41 AI Prompts
+🧠 8 AI Sessions, 34 AI Prompts
 
 Opus                     2,658 lines         █████████████████░░░░░░░░   69.24 % 
 GPT                      1,181 lines         ████████░░░░░░░░░░░░░░░░░   30.76 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.19% of written lines came from AI
-📄 Detailed Prompter — average 875 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 1.06% of changed lines were hand-edited
+🤖 AI-Driven — 99.72% of written lines came from AI
+📄 Detailed Prompter — average 659 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.54% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -163,7 +163,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/09/2026 21:30:57 UTC
+ Last Updated on 28/09/2026 23:25:48 UTC
 <!--END_SECTION:waka-->
 
 </details>  
