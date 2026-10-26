@@ -116,36 +116,36 @@ Sunday                   172 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    4 hrs 2 mins        ██████████████░░░░░░░░░░░   56.78 % 
-Python                   58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
-Vue                      49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
-Image (svg)              25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
-JSON                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+Other                    3 hrs 22 mins       ██████████████████░░░░░░░   71.37 % 
+Python                   28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
+Image (svg)              25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
+Markdown                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+JavaScript               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
 
 💻 Operating System: 
-Windows                  7 hrs 7 mins        █████████████████████████   100.00 % 
+Windows                  4 hrs 44 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 53 mins (82.69%)
+⏱ AI Coding Time: 4 hrs 14 mins (89.38%)
 
-✍️ 786 lines written by AI, 28 lines written by hand (96.56% AI-written)
+✍️ 786 lines written by AI, 14 lines written by hand (98.25% AI-written)
 
-🔤 2,017,043 Input Tokens, 99,057 Output Tokens
+🔤 1,560,460 Input Tokens, 61,690 Output Tokens
 
-💵 $9.14 Estimated AI Cost This Week
+💵 $5.89 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 82 AI Prompts
+🧠 7 AI Sessions, 63 AI Prompts
 
 GPT                      786 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.56% of written lines came from AI
-📝 Concise Prompter — average 480 characters per prompt
+🤖 AI-Driven — 98.25% of written lines came from AI
+📝 Concise Prompter — average 343 characters per prompt
 🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 3.79% of changed lines were hand-edited
+🚀 High AI Trust — 1.75% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -161,7 +161,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/10/2026 21:02:11 UTC
+ Last Updated on 26/10/2026 22:49:16 UTC
 <!--END_SECTION:waka-->
 
 </details>  
